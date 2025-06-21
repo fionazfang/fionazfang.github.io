@@ -97,8 +97,9 @@ For Question 3, Figure 5(a) and its accompanying Wilcoxon test (p-value = 0.0114
     </div>
 </div>
 <div class="caption">
-    Figure 5: Examination of P. purum abundance and soil parameters, including histogram displaying P. purum abundance across heather and grass quadrats (a), and scatter plots of P. purum frequency and soil pH (b), moisture (c), and LOI (d). Data from heather quadrats are represented in purple, and that from grass quadrats are represented in blue. 
-        
+    Figure 5: Examination of P. purum abundance and soil parameters, including histogram displaying P. purum abundance across heather and grass quadrats (a), and scatter plots of P. purum frequency and soil pH (b), moisture (c), and LOI (d). Data from heather quadrats are represented in purple, and that from grass quadrats are represented in blue.
+</div>
+
 # IV. Interpretation 
 ## 4.1 Methodological Reflection 
 Several methodological problems may explain the result of this study. Firstly, the sample size, ranging from 30 to 70, are all too small for statistically significant conclusions, referred to as the false negative error (Andrade, 2020). Meanwhile, the data quality is discredited by lack of repeated tests. Single sampling in a limited site (30x50 meters) on a random day may not reflect the general patterns of the broader Breckland area.
@@ -120,6 +121,7 @@ This study proposed interpretation for the observed relationship between bedrock
 The study would be benefited from refined methodologies including multiple tests, expansion of study site, and accurate sample numbering. Further research should investigate the relationship between soil texture and moisture, alongside clearer, qualitative observations of dominant vegetation, so as to test the hypotheses proposed. Such improvement would help provide more informative conclusions explaining soil-bedrock interaction and the species relations in the heathland.
 
 # Bibliography
+
 Andrade, C. (2020) ‘Sample Size and its Importance in Research’, Indian Journal of Psychological Medicine, 42(1), pp. 102–103. Available at: https://doi.org/10.4103/IJPSYM.IJPSYM_504_19.
 
 Bales, R.C. et al. (2011) ‘Soil Moisture Response to Snowmelt and Rainfall in a Sierra Nevada Mixed‐Conifer Forest’, Vadose Zone Journal, 10(3), pp. 786–799. Available at: https://doi.org/10.2136/vzj2011.0001.
