@@ -22,18 +22,49 @@
       }
     ]
   },
-  "work": [
+  "education": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "institution": "University of Cambridge",
+      "location": "Cambridge, Switzerland",
+      "url": "https://www.undergraduate.study.cam.ac.uk/courses/geography-ba-hons",
+      "area": "Geography",
+      "studyType": "Bachelor of Arts",
+      "startDate": "2023-09-01",
+      "endDate": "2026-06-30",
+      "score": "To be updated",
+      "courses": ["Quaternary Environments, Glaciology, Atmospheric Science, Volcanology, Biogeography"]
     }
   ],
-  "volunteer": [
+  "work": [
+    {
+      "name": "University of Leeds",
+      "position": "Research Assistant",
+      "url": "https://yes-dtn.ac.uk/analysing-earth-system-model-simulations-to-investigate-climate-feedbacks-during-the-last-deglaciation/",
+      "startDate": "2025-08-18",
+      "endDate": "2025-10-07",
+      "summary": "To be updated",
+      "highlights": ["Project Title: Analysing Earth System Model Simulations to Investigate Climate Feedbacks During the Last Deglaciation"]
+    },
+    {
+      "name": "UK Center of Ecology and Hydrology",
+      "position": "Software Engineering Intern",
+      "url": "https://www.ceh.ac.uk/sites/default/files/2025-02/INTERNSHIP%202%20-%20TOWARDS%20A%20UNIFIED%20APPROACH%20TO%20ENVIRONMENTAL%20MODELLING%20%28EDINBURGH%29.pdf",
+      "startDate": "2025-06-30",
+      "endDate": "2025-08-08",
+      "summary": "To be updated",
+      "highlights": ["Project Title: Towards a Unified Approach to Environmental Modelling", "Developing Basic Model Interfaces"]
+    },
+    {
+      "name": "International Geoscience Education Organization, Peking University",
+      "position": "International Earth Science Olympiad Committee Volunteer Officer",
+      "url": "https://www.igeoscied.org/activities/ieso-2/",
+      "startDate": "2024-07-01",
+      "endDate": "2025-08-24",
+      "summary": "To be updated",
+      "highlights": ["Collaborated with the International Earth Science Olympiad Committee, International Geoscience Education Organization (IGEO), and Peking University", "Co-developed the Data Mining Test (DMT) to guide students in exploring large Earth science datasets", "Led the design and execution of the Earth System Project (ESP), encouraging students to conduct independent research on planetary habitability", "Supervised students during field tests; demonstrated instrument use and managed logistics"]
+    }
+  ],
+  "_volunteer": [
     {
       "organization": "People's Climate March",
       "location": "Zurich, Switzerland",
@@ -45,52 +76,39 @@
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
-  "education": [
-    {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
+      "title": "International Earth Science Olympiad Chinese Team Member, Gold Medal",
+      "date": "2022-08-25",
+      "awarder": "International Earth Science Olympiad Committee",
       "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "summary": "Nationally, ranked top 8 among 40,000 participants, and selected for Chinese national team; Internationally, gained a gold medal in team field competition, and a silver medal in individual test"
     }
   ],
-  "certificates": [
+  "_certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "CS50",
+      "date": "2024-8-10",
+      "issuer": "Havard University",
+      "url": "To be updated",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
+      "name": "To be updated",
       "date": "2018-01-01",
       "issuer": "Stanford University",
       "url": "https://example.com",
       "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Quantum Information",
+      "name": "To be updated",
       "date": "2018-01-01",
       "issuer": "Stanford University",
       "url": "https://example.com",
       "icon": "fa-solid fa-envelope"
     },
     {
-      "name": "Quantum Cryptography",
+      "name": "To be updated",
       "date": "2018-01-01",
       "issuer": "Stanford University",
       "url": "https://example.com",
@@ -111,7 +129,7 @@
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
-  "publications": [
+  "_publications": [
     {
       "name": "Zur Elektrody/namik bewegter Körper",
       "publisher": "Annalen der Physik",
@@ -136,32 +154,55 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Field and lab skills",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Lake and peat sediment",
+        "Tree ring",
+        "Pollen",
+        "Tephra",
+        "Soil and rock",
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "R, Python, MATLAB",
+        "Quantitative analysis",
+        "Machine learning",
+        "Process-based imulation",
+        "Data visualization",
+      ]
+    },
+    {
+      "name": "Cartography",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "QGIS",
+        "ArcGIS",
+        "Google Earth Engine",
+        "Remote sensing",
+        "Spatial regression",
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Chinese",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Fluent, C2 level",
       "icon": ""
     }
   ],
-  "interests": [
+  "_interests": [
     {
       "name": "Physics",
       "icon": "fa-solid fa-tag",
@@ -175,7 +216,7 @@
       ]
     }
   ],
-  "references": [
+  "_references": [
     {
       "name": "Professor John Doe",
       "icon": "fa-solid fa-laptop",
@@ -187,7 +228,7 @@
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ],
-  "projects": [
+  "_projects": [
     {
       "name": "Quantum Computing",
       "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
