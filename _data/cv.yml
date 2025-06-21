@@ -19,7 +19,7 @@
         - Cambridge University Geographical Society (CUSF) Committee Member
         - Trinity Hall Rambling Society 
     - title: Gaokao and A Level
-      institution: Nanjing Foreign Language School, P.R. China
+      institution: Nanjing Foreign Language School, China
       year: 2017-2023
       description:
         - Self-taught A Level A*A*A*A*A 
@@ -30,9 +30,9 @@
   contents:
     - title: Research Assistant
       institution: University of Leeds
-      year: Summer 2025 
+      year: 2025 
       description:
-        - Project Title - Analysing Earth System Model Simulations to Investigate Climate Feedbacks During the Last Deglaciation
+        - "**Project Title**: Analysing Earth System Model Simulations to Investigate Climate Feedbacks During the Last Deglaciation"
         - To be updated
         - title: To be updated
           contents:
@@ -40,9 +40,9 @@
             - Sub-description 2.
     - title: Software Engineering Intern
       institution: UK Center of Ecology and Hydrology
-      year: Summer 2025
+      year: 2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                
       description:
-        - Project Title - Towards a Unified Approach to Environmental Modelling
+        - "**Project Title**: Towards a Unified Approach to Environmental Modelling"
         - Developing Basic Model Interfaces
 
     - title: International Earth Science Olympiad Committee Volunteer Officer
@@ -95,4 +95,4 @@
   type: list
   contents:
     - <u>Hobbies:</u> Stargazing, Hiking, etc.
-    - <u>Hobbies:</u> Cambridge University Spaceflight Society, Cambridge University Geographical Society, Trinity Hall Rambling Society
+    - <u>Societies:</u> Cambridge University Spaceflight Society, Cambridge University Geographical Society, Trinity Hall Rambling Society
