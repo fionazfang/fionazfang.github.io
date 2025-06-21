@@ -123,7 +123,7 @@ ninja.data = [{
           title: 'Sample Project',
           description: "Project with some sample codes...",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+              window.location.href = "/projects/Sample-project/";
             },},{
         id: 'social-email',
         title: 'email',
