@@ -3,11 +3,11 @@
   contents:
     - name: Full Name
       value: Fiona Fang
-    - name: Date of Birth
-      value: April 2005
-    - name: Languages
-      value: English, Chinese
-
+    - name: Address
+      value: Trinity Hall Cambridge, CB2 1TJ
+    - name: Contact
+      value: zf276@cam.ac.uk
+    
 - title: Education
   type: time_table
   contents:
@@ -32,7 +32,7 @@
       institution: University of Leeds
       year: 2025 
       description:
-        - "**Project Title**: Analysing Earth System Model Simulations to Investigate Climate Feedbacks During the Last Deglaciation"
+        - "Project Title: Analysing Earth System Model Simulations to Investigate Climate Feedbacks During the Last Deglaciation"
         - To be updated
         - title: To be updated
           contents:
@@ -42,7 +42,7 @@
       institution: UK Center of Ecology and Hydrology
       year: 2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                
       description:
-        - "**Project Title**: Towards a Unified Approach to Environmental Modelling"
+        - "Project Title: Towards a Unified Approach to Environmental Modelling"
         - Developing Basic Model Interfaces
 
     - title: International Earth Science Olympiad Committee Volunteer Officer
