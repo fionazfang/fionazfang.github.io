@@ -83,7 +83,7 @@ ninja.data = [{
           title: 'Energy Balance Model',
           description: "0D and 1D Energy Balance Model with Quaternary Radiative Forcing",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/projects/2024-ebm/";
             },},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
