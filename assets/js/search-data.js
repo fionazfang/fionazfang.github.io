@@ -119,9 +119,9 @@ ninja.data = [{
           description: "an other project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+            },},{id: "projects-sample-project",
+          title: 'Sample Project',
+          description: "Project with some sample codes...",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
