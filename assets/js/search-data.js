@@ -79,16 +79,16 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-energy-balance-model",
+          section: "News",},{id: "projects-heather-and-grass-stripes-in-breckland-area",
+          title: 'Heather and Grass Stripes in Breckland Area',
+          description: "Interaction Between Bedrock, Soil, and Vegetation in the Heather and Grass Stripes of Breckland",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2024-breckland/";
+            },},{id: "projects-energy-balance-model",
           title: 'Energy Balance Model',
           description: "0D and 1D Energy Balance Model with Quaternary Radiative Forcing",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2024-ebm/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
           title: 'project 3 with very long name',
           description: "a project that redirects to another website",
