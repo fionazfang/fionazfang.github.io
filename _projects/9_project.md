@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 9
-description: another project with an image 🎉
+title: Sample Project 
+description: Project with some sample codes...
 img: assets/img/6.jpg
 importance: 4
 category: fun
