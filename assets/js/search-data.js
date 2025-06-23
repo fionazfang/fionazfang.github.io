@@ -79,7 +79,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-heather-and-grass-stripes-in-breckland-area",
+          section: "News",},{id: "projects-predicting-geological-hazards-in-huyu-china",
+          title: 'Predicting Geological Hazards in Huyu, China',
+          description: "A high school project winning gold medel in the International Earth Science Olympiad",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2022-huyu/";
+            },},{id: "projects-heather-and-grass-stripes-in-breckland-area",
           title: 'Heather and Grass Stripes in Breckland Area',
           description: "Interaction Between Bedrock, Soil, and Vegetation in the Heather and Grass Stripes of Breckland",
           section: "Projects",handler: () => {
@@ -109,11 +114,6 @@ ninja.data = [{
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
             },},{id: "projects-project-8",
           title: 'project 8',
           description: "an other project with a background image and giscus comments",
