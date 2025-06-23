@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "Let&#39;s explore atmospheric, cryospheric, biospheric and lithospheric dynamics together!",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
