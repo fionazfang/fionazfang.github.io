@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 3
-display_categories: [Paleoclimate, Atmosphere, Cryosphere, Oceanography, Biosphere, Methodology]
+display_categories: [Paleoclimate, Atmosphere, Cryosphere, Biosphere, Lithosphere, Methodology]
 horizontal: false
 ---
 
