@@ -23,9 +23,9 @@ latest_posts:
   limit: 8 # leave blank to include all the blog posts
 ---
 
-I am a Geography undergraduate at the University of Cambridge, driven by a deep fascination with climate science and the complex interplay between the cryosphere, atmosphere, and ocean, especially during abrupt climate transitions. 
+I am a Geography undergraduate at the University of Cambridge, driven by a deep fascination with the complex interaction between the cryosphere, atmosphere, and ocean, especially during abrupt climate transitions. 
 
-My research employs both proxy records and numerical models to reconstruct past climates (e.g. Dansgaard–Oeschger and Heinrich events) as a means to illuminate future thresholds. 
+My current dissertation research employs both proxy records and numerical models to reconstruct past climates (e.g. Dansgaard–Oeschger and Heinrich events) as a means to illuminate future thresholds.
 
 Beyond my formal coursework, I continually teach myself new coding techniques and develop my own `climate models`, and I enjoy sharing insights into interesting scientific questions via `blog posts`. 
 
