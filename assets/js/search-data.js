@@ -79,8 +79,8 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-predicting-geological-hazards-in-huyu-china",
-          title: 'Predicting Geological Hazards in Huyu, China',
+          section: "News",},{id: "projects-evaluating-geological-hazards-in-huyu-beijing",
+          title: 'Evaluating Geological Hazards in Huyu, Beijing',
           description: "A high school project winning gold medel in the International Earth Science Olympiad",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2022-huyu/";
