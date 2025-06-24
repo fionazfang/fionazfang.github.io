@@ -84,6 +84,11 @@ ninja.data = [{
           description: "A high school project winning gold medel in the International Earth Science Olympiad",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2022-huyu/";
+            },},{id: "projects-orbital-control-during-the-past-1-5-ma",
+          title: 'Orbital Control during the Past 1.5 Ma',
+          description: "The Influence of Seasonal and Latitudinal Insolation Distribution on Climate Variability over the Past 1.5 Ma",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2023-orbit/";
             },},{id: "projects-heather-and-grass-stripes-in-breckland-area",
           title: 'Heather and Grass Stripes in Breckland Area',
           description: "Interaction Between Bedrock, Soil, and Vegetation in the Heather and Grass Stripes of Breckland",
@@ -94,11 +99,6 @@ ninja.data = [{
           description: "0D and 1D Energy Balance Model with Quaternary Radiative Forcing",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2024-ebm/";
-            },},{id: "projects-orbital-control-during-the-past-1-5-ma",
-          title: 'Orbital Control during the Past 1.5 Ma',
-          description: "The Influence of Seasonal and Latitudinal Insolation Distribution on Climate Variability over the Past 1.5 Ma",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
