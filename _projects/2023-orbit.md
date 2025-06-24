@@ -7,6 +7,9 @@ importance: 3
 category: Paleoclimate
 ---
 
+
+# The Influence of Seasonal and Latitudinal Insolation Distribution on Climate Variability over the Past 1.5 Ma
+
 *This is a group project I led during summer 2023 at an international research summer camp hosted by Shanghai Jiaotong University, which was published on 11th Academic Conference of Geology Resource Management and Sustainable Development 2023 (DOI:10.52202/073371-0113).*
 
 *Abstract*: The Quaternary Glacial-Interglacial Cycle (G-IG cycle) is primarily driven by variations of the Earth’s Orbit. Astronomical parameters, including precession, eccentricity, and obliquity, affect global climate by modulating the seasonal and latitudinal distribution of insolation. However, a quantitative assessment of this correlation remains lacking. This essay aims to investigate the following using paleoclimate records over the last 1.5 Ma: 1) The relationship between insolation seasonality and the G-IG cycle; 2) The relationship between Latitudinal Insolation Gradient (LIG) and the G-IG cycle; 3) The combined effects of seasonal and latitudinal insolation variations. The clear matching between the rate of G-IG transformation, seasonal and latitudinal insolation variation provides a crucial supplement to the traditional Milankovitch theory, and also suggest a new perspective for investigating the connection between astronomical calculation and records in paleoclimate data. Additionally, we discuss the indirect and indirect control of insolation on the shorter-term Millennial Climate Variability (MCV) using high-resolution marine sediment data. Illuminating these orbital forcing mechanisms contributes to a deeper understanding of climate dynamics and also provides a reference for their potential implications on future climate change.
