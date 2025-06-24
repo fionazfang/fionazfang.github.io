@@ -3,7 +3,6 @@ layout: page
 title: Orbital Control during the Past 1.5 Ma
 description: The Influence of Seasonal and Latitudinal Insolation Distribution on Climate Variability over the Past 1.5 Ma
 img: assets/img/2023-orbit-background.png
-redirect: https://unsplash.com
 importance: 3
 category: Paleoclimate
 ---
