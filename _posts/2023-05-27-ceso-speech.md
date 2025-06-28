@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IESO#3 To All Earth Science Enthusiasts and Olympiad participants 
+title: IESO#w To All Earth Science Enthusiasts and Olympiad participants 
 date: 2023-05-27 17:29:55
 tags: Earth Science Olympiad
 ---
