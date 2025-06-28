@@ -41,9 +41,9 @@ ninja.data = [{
             window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
           
         },
-      },{id: "post-ieso-2-to-all-earth-science-enthusiasts-and-olympiad-participants",
+      },{id: "post-to-all-earth-science-enthusiasts-and-olympiad-participants",
         
-          title: "IESO#2 To All Earth Science Enthusiasts and Olympiad participants",
+          title: "To All Earth Science Enthusiasts and Olympiad participants",
         
         description: "",
         section: "Posts",
