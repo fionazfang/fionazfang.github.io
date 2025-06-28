@@ -52,9 +52,9 @@ ninja.data = [{
             window.location.href = "/blog/2023/ceso-speech/";
           
         },
-      },{id: "post-ieso-1-reflections-on-my-ieso-journey",
+      },{id: "post-reflections-on-my-ieso-journey",
         
-          title: "IESO#1 Reflections on my IESO Journey",
+          title: "Reflections on my IESO Journey",
         
         description: "",
         section: "Posts",
