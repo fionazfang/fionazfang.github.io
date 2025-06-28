@@ -5,6 +5,7 @@ date: 2023-05-27 17:29:55
 tags: Earth Science Olympiad
 ---
 
+
 Hello everyone — students, teachers, and fellow Earth science enthusiasts!
 
 I’m Ziyan Fang. Some of you might have seen me yesterday at the exam venue, volunteering. I’m from Nanjing Foreign Language School and was a member of the Chinese national team at the last International Earth Science Olympiad (IESO). I’m also excited to share that I’ve been admitted to the University of Cambridge in the UK.
