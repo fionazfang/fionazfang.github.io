@@ -90,16 +90,16 @@
         - Geological mapping
     - title: Programming
       items:
-        - R, Python, MATLAB, QGIS
+        - Python, R, MATLAB, FORTRAN
         - Quantitative analysis
         - Machine learning
-        - Process-based imulation
-        - Data visualization  
-        - Cartography   
-        - Front-end design
+        - Process-based simulation
+        - Command line programming
+        - Cartography - QGIS, ArcGIS, Google Earth Engine   
+        - Front-end design - django, html
 
 - title: Others
   type: list
   contents:
-    - <u>Hobbies:</u> Stargazing, Hiking, etc.
-    - <u>Societies:</u> Cambridge University Spaceflight Society, Cambridge University Geographical Society, Trinity Hall Rambling Society
+    - <u>Hobbies:</u> Stargazing, hiking, etc.
+    - <u>Societies:</u> Cambridge University Geographical Society, Cambridge University Spaceflight Society, Trinity Hall Geographical Society, Trinity Hall Rambling Society
