@@ -114,7 +114,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-geological-hazards-in-huyu-beijing",
           title: 'Geological Hazards in Huyu, Beijing',
-          description: "A high school project winning gold medel in the International Earth Science Olympiad",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2022-huyu/";
             },},{id: "projects-orbital-control-during-the-past-1-5-ma",
