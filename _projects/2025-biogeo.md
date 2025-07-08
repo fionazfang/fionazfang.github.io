@@ -79,7 +79,7 @@ Climate variables of interest include temperature, precipitation, DTR, and cloud
 
 # III. Results and Discussion
 
-able 1(a) shows significant correlations in May, June, and July (p < 0.01, |r| > 0.2), reflecting the dominance of summer growth in tree-ring formation. Averaged across the entire period, all MJJ correlations are stronger (|r| > 0.4) than those of individual months. The MJJ correlation, however, was not consistent during the study period (Table 1(b)), with no significance in the earlier two periods (p > 0.05), but became significant and strong in later ones (most p < 0.001 and |r| > 0.6), possibly due to the improved data reliability with more observation stations built after the 1950s (Serrano-Notivoli et al., 2019).
+Table 1(a) shows significant correlations in May, June, and July (p < 0.01, r > 0.2), reflecting the dominance of summer growth in tree-ring formation. Averaged across the entire period, all MJJ correlations are stronger (r > 0.4) than those of individual months. The MJJ correlation, however, was not consistent during the study period (Table 1(b)), with no significance in the earlier two periods (p > 0.05), but became significant and strong in later ones (most p < 0.001 and r > 0.6), possibly due to the improved data reliability with more observation stations built after the 1950s (Serrano-Notivoli et al., 2019).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
