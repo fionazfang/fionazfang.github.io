@@ -6,7 +6,6 @@ img: assets/img/2025-biogeo-background.png
 importance: 2
 category: Paleoclimate
 ---
-### Developing and Interpreting a Tree-Ring Width Chronology: An Example Using Scots Pine from Pinar Grande, Spain
 *This is a piece of PartIB coursework which achieved a final mark of first class with distinction (98/100).*
 
 # I. INTRODUCTION
