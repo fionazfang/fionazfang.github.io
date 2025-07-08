@@ -92,8 +92,6 @@ K-means (64% variance explained) identifies four clusters: Cluster 1 has moderat
 
 For fatalities (Table 2), VEI (β=0.486, p<0.01) and RGDP (β=−0.524, p<0.01) emerge as significant predictors, indicating that more explosive eruptions lead to higher deaths, while wealthier regions record fewer fatalities. Population density is not significant (p=0.527). The model is statistically significant (p=0.00056) but only explains 9.9% of the variance (adjusted R2=0.099). For affected population (Table 2), both VEI (β=1.053, p<0.01) and population density (β=0.606, p<0.001) are significant predictors, suggesting that more explosive eruptions and higher population densities correspond to a larger affected population. The model is significant but cannot explain all variance (p=5.535e-5, adjusted R2=0.118).
 
-Moran’s I shows significant spatial clustering for affected population (I=0.232, p<0.001) and weaker clustering for fatalities (I=0.076, p=0.038). Residual tests confirm no spatial dependence for fatalities (I=0.0128, p=0.337) but persistent autocorrelation for the affected population (I=0.250, p<0.001), as mapped by Figure 4. A SEM was thus employed for affected population, reducing spatial clustering and improving model fit (reducing AIC from 790.57 to 776.19). The SEM reaffirms that VEI (β=1.065, p<0.001) and population density (β=0.646, p<0.001) remain positively associated with affected populations.
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/2025-volcano-table2.png" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -117,9 +115,13 @@ Moran’s I shows significant spatial clustering for affected population (I=0.23
     Figure 4 Residual Analysis of (a) fatality OLS model (b) affected population OLS model (c) affected population SEM model.
 </div>
 
-# 4. Discussion 
+Moran’s I shows significant spatial clustering for affected population (I=0.232, p<0.001) and weaker clustering for fatalities (I=0.076, p=0.038). Residual tests confirm no spatial dependence for fatalities (I=0.0128, p=0.337) but persistent autocorrelation for the affected population (I=0.250, p<0.001), as mapped by Figure 4. A SEM was thus employed for affected population, reducing spatial clustering and improving model fit (reducing AIC from 790.57 to 776.19). The SEM reaffirms that VEI (β=1.065, p<0.001) and population density (β=0.646, p<0.001) remain positively associated with affected populations.
 
-## Question 1 
+
+
+# 4. Results 
+
+## Question 1
 
 The VEI-weighted KDE map reveals strong clustering of high-intensity volcanic activity along subduction zones, where hydration melting generates volatile-rich, highly viscous, and explosive magmas (Francis et al., 2003). This explains the dominance of stratovolcanoes at high VEI levels - these steep-sided edifices form through repeated pyroclastic and lava accumulation at subduction zones. In contrast, low KDE values along divergent boundaries correspond to effusive basaltic eruptions driven by decompression melting (Oppenheimer, 2011).
 The link between hazard type and VEI is consistent to previous literature (Ogburn et al., 2023). Tephra, pyroclastic density currents, and lahars are most common across all VEI values (Pierson et al., 2014; Cole et al., 2015), while lava flow is more prevalent at low-VEI events since they are related to effusive eruption (Oppenheimer, 2011). Chi-squared test confirms significant associations between these physical characteristics, supporting their role in hazard prediction. However, the dataset primarily reflects historically active volcanoes with recorded human impact, potentially underrepresenting hazards from remote or prehistoric eruptions.
