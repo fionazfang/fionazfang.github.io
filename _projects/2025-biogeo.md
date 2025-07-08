@@ -6,7 +6,7 @@ img: assets/img/2025-biogeo-background.png
 importance: 2
 category: Paleoclimate
 ---
-*This is a piece of PartIB coursework which achieved a final mark of first class with distinction (98/100).*
+*This is a piece of coursework for PartIB Biogeography Paper which achieved a final mark of first class with distinction (98/100).*
 
 # I. INTRODUCTION
 
