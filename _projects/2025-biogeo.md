@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Dendrochronology: An Example from Spain
-description: Developing and Interpreting a Tree-Ring Width Chronology: An Example Using Scots Pine from Pinar Grande, Spain
+title: Building a Scots Pine Dendrochronology
+description: Developing and Interpreting a Tree-Ring Width Chronology - An Example Using Scots Pine from Pinar Grande, Spain
 img: assets/img/2025-biogeo-background.png
 importance: 2
 category: Paleoclimate
