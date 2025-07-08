@@ -26,8 +26,6 @@ This study addresses these gaps with spatial and statistical quantitative method
 
 The analysis follows coursework guidelines requiring the use of EM-DAT (2024), yet its volcanic hazard data is highly limited. Of 277 records, only 12 entries have complete data across all variables (coordinate, deaths, affected population and economic loss), making it unsuitable for clustering and regression. Furthermore, EM-DAT lacks key volcanic hazard indicators (VEI, hazard) and socioeconomic factors (RGDP, population). To address these gaps, and as permitted by the coursework coordinator, I merged EM-DAT with other leading databases: Global Significant Volcanic Eruptions Database (GSVE, 2025), the Global Volcanic Program (GVP, 2025), and the Volcanic Disasters and Incidents Database (VDID, Witham, 2005) (Table 1). Given format variations (e.g., VDID are images, GVP requires online manual search), records were manually integrated and cross-validated. Population density data was sourced from the History Database of the Global Environment (HYDE, Goldewijk et al., 2017), which provides gridded historical estimates. RGDP was obtained from the Maddison Project Database (Bolt et al., 2024), which offers national-level approximations. The latter two were integrated in R. 
 
-
-</div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/2025-volcano-table1.png" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -52,8 +50,6 @@ For Question 3, two multivariable regression models were developed based on lite
 
 The VEI-weighted KDE map (Figure 1a) reveals major volcanic hotspots along the Pacific Ring of Fire, the Andean Volcanic Belt, and the Indonesian Arc. The highest KDE intensities (>6) closely align with convergent plate boundaries, while divergent boundaries, such as the East African Rift and Mid-Atlantic Ridge, show lower intensities (<2). VEI distribution by volcano type (Figure 1b) indicates that stratovolcanoes dominate across all VEI levels, particularly >3. Calderas and complex volcanoes rank second and third but are more common at low to medium VEIs. A Chi-squared test confirms a significant dependence between VEI and volcano type (X² = 206.63, p < 0.001). Hazard-type distribution (Figure 1c) shows tephra fallout, pyroclastic density currents, and lahar as the most frequent hazards, with lava flows more common at lower VEIs. Hazard type and VEI are also significantly associated (X² = 224.19, p < 0.001).
 
-
-</div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/2025-volcano-figure1.png" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -68,7 +64,6 @@ The VEI-weighted KDE map (Figure 1a) reveals major volcanic hotspots along the P
 
 The human impact hotspots (Figure 2a, 2c) share similarities with VEI hotspots, with Indonesia, the Philippines, and Central America appearing in both. Japan and Italy, despite high VEI, show low human impact. Reversely, the East African Rift has low VEI but significant human impact. Differences between fatality- and population-affected-weighted KDE are minor, except for Martinique, which has high fatalities but a lower affected population. A clearer pattern is shown by the bar charts (Figure 2b, 2d): Martinique and Colombia have the highest fatalities yet not lead in affected population, while Ecuador and the Philippines lead in affected populations but report fewer fatalities. Guatemala ranks 4th in fatalities and 3rd in affected populations, indicating a dual high-risk zone.
 
-</div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/2025-volcano-figure2.png" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -119,11 +114,10 @@ Moran’s I shows significant spatial clustering for affected population (I=0.23
     </div>
 </div>
 <div class="caption">
-    Figure 4 Residual Analysis of (a) fatality OLS model (b) affected population OLS model (c) affected population SEM model
+    Figure 4 Residual Analysis of (a) fatality OLS model (b) affected population OLS model (c) affected population SEM model.
 </div>
 
-
-# 4. Discussion #
+# 4. Discussion 
 
 ## Question 1 
 
