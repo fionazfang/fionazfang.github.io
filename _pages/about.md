@@ -6,7 +6,7 @@ subtitle: Department of Geography, University of Cambridge | CB2 1TJ | zf276@cam
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_2.JPG
   image_circular: false # crops the image to make it circular
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
