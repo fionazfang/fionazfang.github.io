@@ -7,7 +7,7 @@ importance: 1
 category: Lithosphere
 ---
 
-This project is my coursework for PartIB Paper 1 Living With Global Change, which was awarded a First Class with Distinction (92/100).*
+*This project is my coursework for PartIB Paper 1 Living With Global Change, which was awarded a First Class with Distinction (92/100).*
 
 # 1. Introduction
 
