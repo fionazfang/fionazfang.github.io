@@ -134,7 +134,7 @@ ninja.data = [{
               window.location.href = "/projects/2024-ebm/";
             },},{id: "projects-building-a-tree-ring-chronology",
           title: 'Building a Tree Ring Chronology',
-          description: "Developing and Interpreting a Tree-Ring Width Chronology - An Example Using Scots Pine from Pinar Grande, Spain",
+          description: "An Example Using Scots Pine from Pinar Grande, Spain",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2025-biogeo/";
             },},{id: "projects-project-5",
