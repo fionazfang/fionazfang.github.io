@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Building a Scots Pine Dendrochronology
+title: Building a Tree Ring Chronology
 description: Developing and Interpreting a Tree-Ring Width Chronology - An Example Using Scots Pine from Pinar Grande, Spain
 img: assets/img/2025-biogeo-background.png
 importance: 2
