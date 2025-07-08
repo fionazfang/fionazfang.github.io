@@ -75,10 +75,12 @@ The human impact hotspots (Figure 2a, 2c) share similarities with VEI hotspots, 
 
 K-means (64% variance explained) identifies four clusters: Cluster 1 has moderate VEI, low fatalities, and moderate affected populations, mainly in Indonesia, the Philippines, and Central America. Cluster 2 consists of high VEI eruptions with low societal impact, found in Japan, Kamchatka, Alaska, Indonesia, and the Andes. Cluster 3 features moderate VEI events with high fatalities but moderate affected populations, concentrated in the Caribbean, Colombia, Papua New Guinea, and Indonesia. Cluster 4  comprises low VEI events with minimal fatalities and affected populations, mainly in New Zealand, Japan, Italy, and the Philippines (Figure 3).
 
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/2025-volcano-figure3ab.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/2025-volcano-figure3c.png" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -91,6 +93,9 @@ K-means (64% variance explained) identifies four clusters: Cluster 1 has moderat
 ## Question 3 
 
 For fatalities (Table 2), VEI (β=0.486, p<0.01) and RGDP (β=−0.524, p<0.01) emerge as significant predictors, indicating that more explosive eruptions lead to higher deaths, while wealthier regions record fewer fatalities. Population density is not significant (p=0.527). The model is statistically significant (p=0.00056) but only explains 9.9% of the variance (adjusted R2=0.099). For affected population (Table 2), both VEI (β=1.053, p<0.01) and population density (β=0.606, p<0.001) are significant predictors, suggesting that more explosive eruptions and higher population densities correspond to a larger affected population. The model is significant but cannot explain all variance (p=5.535e-5, adjusted R2=0.118).
+
+Moran’s I shows significant spatial clustering for affected population (I=0.232, p<0.001) and weaker clustering for fatalities (I=0.076, p=0.038). Residual tests confirm no spatial dependence for fatalities (I=0.0128, p=0.337) but persistent autocorrelation for the affected population (I=0.250, p<0.001), as mapped by Figure 4. A SEM was thus employed for affected population, reducing spatial clustering and improving model fit (reducing AIC from 790.57 to 776.19). The SEM reaffirms that VEI (β=1.065, p<0.001) and population density (β=0.646, p<0.001) remain positively associated with affected populations.
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -112,10 +117,8 @@ For fatalities (Table 2), VEI (β=0.486, p<0.01) and RGDP (β=−0.524, p<0.01) 
     </div>
 </div>
 <div class="caption">
-    Figure 4 Residual Analysis of (a) fatality OLS model (b) affected population OLS model (c) affected population SEM model.
+    Figure 4 Residual Analysis of (a) fatality OLS model (b) affected population OLS model (c) affected population SEM model
 </div>
-
-Moran’s I shows significant spatial clustering for affected population (I=0.232, p<0.001) and weaker clustering for fatalities (I=0.076, p=0.038). Residual tests confirm no spatial dependence for fatalities (I=0.0128, p=0.337) but persistent autocorrelation for the affected population (I=0.250, p<0.001), as mapped by Figure 4. A SEM was thus employed for affected population, reducing spatial clustering and improving model fit (reducing AIC from 790.57 to 776.19). The SEM reaffirms that VEI (β=1.065, p<0.001) and population density (β=0.646, p<0.001) remain positively associated with affected populations.
 
 
 
