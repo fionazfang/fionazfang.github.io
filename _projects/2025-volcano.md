@@ -123,9 +123,10 @@ Moran’s I shows significant spatial clustering for affected population (I=0.23
 </div>
 
 
-# 4. Discussion 
+# 4. Discussion #
 
 ## Question 1 
+
 The VEI-weighted KDE map reveals strong clustering of high-intensity volcanic activity along subduction zones, where hydration melting generates volatile-rich, highly viscous, and explosive magmas (Francis et al., 2003). This explains the dominance of stratovolcanoes at high VEI levels - these steep-sided edifices form through repeated pyroclastic and lava accumulation at subduction zones. In contrast, low KDE values along divergent boundaries correspond to effusive basaltic eruptions driven by decompression melting (Oppenheimer, 2011).
 The link between hazard type and VEI is consistent to previous literature (Ogburn et al., 2023). Tephra, pyroclastic density currents, and lahars are most common across all VEI values (Pierson et al., 2014; Cole et al., 2015), while lava flow is more prevalent at low-VEI events since they are related to effusive eruption (Oppenheimer, 2011). Chi-squared test confirms significant associations between these physical characteristics, supporting their role in hazard prediction. However, the dataset primarily reflects historically active volcanoes with recorded human impact, potentially underrepresenting hazards from remote or prehistoric eruptions.
 
