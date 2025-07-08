@@ -132,8 +132,8 @@ ninja.data = [{
           description: "0D and 1D Energy Balance Model with Quaternary Radiative Forcing",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2024-ebm/";
-            },},{id: "projects-building-a-scots-pine-dendrochronology",
-          title: 'Building a Scots Pine Dendrochronology',
+            },},{id: "projects-building-a-tree-ring-chronology",
+          title: 'Building a Tree Ring Chronology',
           description: "Developing and Interpreting a Tree-Ring Width Chronology - An Example Using Scots Pine from Pinar Grande, Spain",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2025-biogeo/";
