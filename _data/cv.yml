@@ -2,7 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: Fiona Fang
+      value: Fiona (Ziyan) Fang
     - name: Address
       value: Trinity Hall Cambridge, CB2 1TJ
     - name: Contact
@@ -15,9 +15,10 @@
       institution: University of Cambridge, United Kingdom
       year: 2023-2026
       description:
-        - Majoring in physical geography, including climatology, glaciology, atmospheric science, volcanology, and biogeography.
+        - Majoring in physical geography, taking modules e.g. climatology, glaciology, atmospheric science, volcanology, and biogeography
+        - PartI First Class with Distinction, Rank 1/92, winner of the Philip Lake Prize (best performance of PartIB students)
         - Cambridge University Geographical Society (CUSF) Committee Member
-        - Trinity Hall Rambling Society 
+        - Trinity Hall Rambling Society Founder and President
     - title: Gaokao and A Level
       institution: Nanjing Foreign Language School, China
       year: 2017-2023
@@ -38,8 +39,8 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: National Capabilities for Global Challenges Program Pilot Intern
-      institution: UK Center of Ecology and Hydrology
+    - title: National Capabilities for Global Challenges (NC-International) Program Intern
+      institution: UK Center of Ecology and Hydrology, Edinburgh
       year: 2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                
       description:
         - "Project Title: Towards a Unified Approach to Environmental Modelling"
