@@ -16,9 +16,10 @@
       year: 2023-2026
       description:
         - Majoring in physical geography, taking modules including climatology, glaciology, atmospheric science, volcanology, and biogeography
-        - PartI First Class with Distinction, Rank 1/92, winner of the Philip Lake Prize (best performance of PartIB students)
-        - Cambridge University Geographical Society (CUGS) Committee Member
-        - Trinity Hall Geographical Society Co-President, Trinity Hall Rambling Society Founder and President
+        - PartI First Class with Distinction (78%), GPA 4.0, Rank 1/92
+        - Cambridge University Geographical Society Committee Member
+        - Trinity Hall Geographical Society Co-President
+        - Trinity Hall Rambling Society Founder and President
     - title: Gaokao and A Level
       institution: Nanjing Foreign Language School, China
       year: 2017-2023
@@ -65,6 +66,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2025
+      items:
+        - Philip Lake Prize (best performance in PartIB Tripos), Department of Geography, University of Cambridge
     - year: 2023
       items: 
         - Excellent Earth Science Tutor awarded by Chinese Earth Science Olympiad Committee
