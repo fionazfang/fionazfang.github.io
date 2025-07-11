@@ -15,16 +15,17 @@
       institution: University of Cambridge, United Kingdom
       year: 2023-2026
       description:
-        - Majoring in physical geography, taking modules e.g. climatology, glaciology, atmospheric science, volcanology, and biogeography
+        - Majoring in physical geography, taking modules including climatology, glaciology, atmospheric science, volcanology, and biogeography
         - PartI First Class with Distinction, Rank 1/92, winner of the Philip Lake Prize (best performance of PartIB students)
-        - Cambridge University Geographical Society (CUSF) Committee Member
-        - Trinity Hall Rambling Society Founder and President
+        - Cambridge University Geographical Society (CUGS) Committee Member
+        - Trinity Hall Geographical Society Co-President, Trinity Hall Rambling Society Founder and President
     - title: Gaokao and A Level
       institution: Nanjing Foreign Language School, China
       year: 2017-2023
       description:
         - Self-taught A Level A*A*A*A*A 
         - IELTS 8.5 (C2 level)
+        - 15th International Earth Science Olympiad Chinese Team Member
 
 - title: Experience
   type: time_table
@@ -94,7 +95,7 @@
         - Python, R, MATLAB, FORTRAN
         - Quantitative analysis
         - Machine learning
-        - Process-based simulation
+        - Process-based model development
         - Command line programming
         - Cartography - QGIS, ArcGIS, Google Earth Engine   
         - Front-end design - django, html
