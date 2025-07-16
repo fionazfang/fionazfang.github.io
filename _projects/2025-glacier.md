@@ -17,12 +17,14 @@ About one-third of projected sea-level rise over the next century will result fr
 
 This study addresses these gaps with a mass balance–flowline model, aiming to: 
 1. Choose physically realistic flow parameters that can reproduce observed geometry when forced with historical climate (1930-1990);
-2. Assess glacier sensitivity to temperature and precipitation perturbations under a pre-warming climatological baseline (1960–1990);
+  
+3. Assess glacier sensitivity to temperature and precipitation perturbations under a pre-warming climatological baseline (1960–1990);
+   
 3 Simulate future glacier evolution under multiple GCM–RCP scenarios and quantify projection uncertainty.
 
 <div class="row">
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/2025-glacier-fig1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/2025-glacier-fig1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -42,8 +44,8 @@ Where c is the sliding coefficient, m is an exponent, and τ is the basal shear 
 This section aims to identify the best flow-law parameter sets. A 3×3 matrix of candidate parameter sets was generated, with three creep coefficients (A) and three sliding coefficients (c). The justification for each value is provided in Table 1. The flow-law exponents were fixed (n = 3, m = 3), following Hubbard et al. (1998), as these values are well established in glacier modelling (Weertman, 1957; Gilbert et al., 2023).
 
 <div class="row">
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/2025-glacier-table1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/2025-glacier-table1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -74,25 +76,27 @@ The best-fit parameter set was used to project glacier evolution under climate f
 
 Five of nine parameter sets met the physically plausible basal sliding ratio (Vs/Vtotal) of 20–40% (Figure 2a). Sets with the lowest sliding coefficient (Sets 7–9) and one mid-range set (Set 4) fell below this threshold (≤17%), while none exceeded 40%. All retained sets reproduced the observed 1990 glacier length (~4800 m) under 1930–1990 forcing. Thickness profiles in the accumulation zone were well captured (RMSE: 5.1–10.8 m, <10% of average thickness), but all sets overestimated thickness in the ablation zone, increasing the RMSE for the full glacier profile to 25–30 m. Set 5 yielded the lowest RMSE for both the accumulation zone (5.07 m) and the full profile (25.29 m), and was selected for subsequent experiments. However, Set 3 performed comparably, suggesting equifinality within the calibrated parameter space (Figure 2b). 
 
+
 <div class="row">
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/2025-glacier-fig2a.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/2025-glacier-fig2a.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/2025-glacier-fig2b.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/2025-glacier-fig2b.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     Figure 2. Parameter tuning for flow and sliding coefficients. (a) Velocity contribution and RMSE across parameter combinations. (b) Simulated vs. observed ice thickness profile in 1990.
 </div>
 
+
 ## Question 2 
 
 Overall, the model yields a length sensitivity of 2800 m °C⁻¹ and a volume sensitivity of 0.43 km³ °C⁻¹. Sensitivity to precipitation is lower, 0.3 km in length and ±0.06 km³ in volume per 10% change (Figure 5). Length has symmetric response to temperature (±2800 m °C⁻¹), but asymmetric for precipitation (+300 m vs. –100 m per 10%). Volume response is more asymmetric: gains from cooling (+0.59 km³ °C⁻¹) exceed losses from warming (–0.27 km³ °C⁻¹), and increases due to precipitation (+0.079 km³) exceed losses from it (–0.050 km³). E-folding times reveal that length adjusts faster under advance scenarios, whereas volume responds faster under retreat scenarios.
 
 <div class="row">
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/2025-glacier-fig3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/2025-glacier-fig3.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -104,23 +108,11 @@ Overall, the model yields a length sensitivity of 2800 m °C⁻¹ and a volu
 As figure 4 presents, simulated volume declines rapidly before mid-century and then stabilizes; length responds more slowly at first but undergoes accelerated retreat after ~2050. Inter-model spread is substantial: CGCM3 projects the slowest ice loss, HadGEM2 the fastest, with CCSM4 intermediate. Ensemble means show ice persisting under RCP2.6 until ~2100, while RCP4.5 and 8.5 reach near-zero volume by ~2080 and ~2070, respectively. Notably, ensemble averaging masks late-century nonlinearity—particularly the consistent post-2050 acceleration in glacier length retreat across all GCMs.
 
 <div class="row">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/2025-glacier-fig4a.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-<div class="row">
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/2025-glacier-fig4a.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/2025-glacier-fig4b.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/2025-glacier-fig4b.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -130,8 +122,8 @@ As figure 4 presents, simulated volume declines rapidly before mid-century and t
 Figure 5 shows that perturbing the deformation and sliding coefficients (±20%) produces minimal spread in projected volume and length, especially under RCP4.5/8.5. In contrast, inter-GCM spread is an order of magnitude larger, with substantial overlap in trajectory bands even across different RCPs. These results demonstrate that uncertainty in climate forcing, not parameter calibration, is the dominant source of projection variability in future glacier evolution.
 
 <div class="row">
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/2025-glacier-fig5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/2025-glacier-fig5.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -244,9 +236,10 @@ Zoet, L.K. and Iverson, N.R. (2020) ‘A slip law for glaciers on deformable bed
 
 Appendix 1 Representation of the sliding law and derivation of sliding flux and diffusivity
 
+
 <div class="row">
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/2025-glacier-app1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/2025-glacier-app1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
