@@ -244,7 +244,7 @@ Zoet, L.K. and Iverson, N.R. (2020) ‘A slip law for glaciers on deformable bed
 
 Appendix 1 Representation of the sliding law and derivation of sliding flux and diffusivity
 
-<div class="row justify-content-sm-center">
+<div class="row">
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/2025-glacier-app1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
