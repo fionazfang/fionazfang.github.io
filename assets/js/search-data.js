@@ -137,16 +137,16 @@ ninja.data = [{
           description: "An Example Using Scots Pine from Pinar Grande, Spain",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2025-biogeo/";
+            },},{id: "projects-glacial-flow-and-mass-balance-model",
+          title: 'Glacial Flow and Mass Balance Model',
+          description: "Parameter calibration, sensitivity test and future projection for Haut Glacier d&#39;Arolla",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2025-glacier/";
             },},{id: "projects-global-volcanic-hotspots",
           title: 'Global Volcanic Hotspots',
           description: "Quantitative Analysis of Global Distribution and Impacts of Volcanic Hazards",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2025-volcano/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
             },},{id: "projects-project-8",
           title: 'project 8',
           description: "an other project with a background image and giscus comments",
