@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: Let's explore atmospheric, cryospheric, biospheric and lithospheric dynamics together!
 nav: true
-nav_order: 3
+nav_order: 2
 display_categories: [Paleoclimate, Atmosphere, Cryosphere, Biosphere, Lithosphere, Methodology]
 horizontal: false
 ---
