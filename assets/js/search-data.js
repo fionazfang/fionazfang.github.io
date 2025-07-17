@@ -147,11 +147,6 @@ ninja.data = [{
           description: "Quantitative Analysis of Global Distribution and Impacts of Volcanic Hazards",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2025-volcano/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
             },},{id: "projects-sample-project",
           title: 'Sample Project',
           description: "Project with some sample codes...",
