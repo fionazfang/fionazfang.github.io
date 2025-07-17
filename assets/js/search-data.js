@@ -137,6 +137,11 @@ ninja.data = [{
           description: "An Example Using Scots Pine from Pinar Grande, Spain",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2025-biogeo/";
+            },},{id: "projects-bipolar-seesaw-model",
+          title: 'Bipolar Seesaw Model',
+          description: "Reproducing the SJ03 Thermodynamic Ocean Model for PartIB Small-Group Supervision",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2025-bipolar-seesaw/";
             },},{id: "projects-breckland-39-s-periglacial-patterned-ground",
           title: 'Breckland&amp;#39;s Periglacial Patterned Ground',
           description: "Linking Surface Morphology, Subsurface Structures, and Sediment Microfabrics Methods",
