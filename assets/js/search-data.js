@@ -137,6 +137,11 @@ ninja.data = [{
           description: "An Example Using Scots Pine from Pinar Grande, Spain",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2025-biogeo/";
+            },},{id: "projects-breckland-39-s-periglacial-patterned-ground",
+          title: 'Breckland&amp;#39;s Periglacial Patterned Ground',
+          description: "Linking Surface Morphology, Subsurface Structures, and Sediment Microfabrics Methods",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2025-breckland/";
             },},{id: "projects-glacial-flow-and-mass-balance-model",
           title: 'Glacial Flow and Mass Balance Model',
           description: "Parameter calibration, sensitivity test and future projection for Haut Glacier d&#39;Arolla",
