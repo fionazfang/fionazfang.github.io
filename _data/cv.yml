@@ -60,21 +60,27 @@
     - title: <a href="https://github.com/fionazfang/Climate_Modelling">Fiona's Climate Models</a>
       year: 2024 - now
       description: A collection of simple, conceptual climate models built by myself.
+      
     - title: <a href="https://fionazfang.github.io/projects/2025-glacier">Modelling Glacier Flow and Mass Balance</a>
       year: 2025
       description: A first-class coursework (92%) in which I developed and calibrated a process-based model of Haut Glacier d’Arolla, and applied it to explore the glacier's climate sensitivity and potential future behaviour. 
+      
     - title: <a href="https://fionazfang.github.io/projects/2025-biogeo">Developing A Tree Ring Chronology</a>
       year: 2025
       description: A first-class coursework (98%) in which I built and analysed a tree ring width chronology using Scots Pine samples from Pinar Grande, Spain. 
+      
     - title: <a href="https://fionazfang.github.io/projects/2023-orbit">Orbital Control over the Past 1.5 Ma</a>
       year: 2023
       description: A conference publication that explores the influence of seasonal and latitudinal insolation distribution on climate variability over the past 1.5 Ma.
+      
     - title: <a href="https://fionazfang.github.io/projects/2025-volcano">Global Volcanic Hazards - A Quantitative View</a>
       year: 2025
       description: A first class coursework (92%) which applies spatial and statistical quantitative approaches to assess global distribution and impacts of volcanic hazards. 
+      
     - title: <a href="https://fionazfang.github.io/projects/2025-breckland">Breckland's Periglacial Patterned Ground</a>
       year: 2025
       description: A first class research proposal (83%) which aims to investigate the periglacial patterned ground in Breckland, East Anglia, UK using unmanned aerial vehicles, ground-penentrating radar, and sediment study methods.
+      
     - title: <a href="https://github.com/fionazfang/High_Altitude_Balloon">CUSF High Altitude Balloon Project</a>
       year: 2024 - 2025
       description: Source code for Cambridge University Spaceflight Society High Altitude Balloon project
