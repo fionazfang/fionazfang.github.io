@@ -47,8 +47,9 @@
       year: 2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                
       description:
         - "Project Title: Towards a Unified Approach to Environmental Modelling"
-        - Developing Basic Model Interfaces (BMI) with Fortran and command-line programming
-        - Rewriting the Joint UK Land Environment Simulator (JULES) with Machine Learning in Python
+        - developing a Basic Model Interface to allow models written in different programming languages and built for different Earth system processes to communicate and be coupled together
+        - Modernizing the Joint UK Land Environment Simulator (JULES) model by rewriting it with optimized implementations and Machine Learning framwork 
+        - Fortran, CMake, command line programming, SciPy, Python
 
     - title: International Earth Science Olympiad Committee Volunteer Officer
       institution: International Geoscience Education Organization; Peking University
