@@ -33,7 +33,7 @@
   contents:
     - title: Research Assistant
       institution: University of Leeds
-      year: 2025 
+      year: 2025
       description:
         - "Project Title: Analysing Earth System Model Simulations to Investigate Climate Feedbacks During the Last Deglaciation"
         - To be updated
@@ -43,13 +43,13 @@
             - Sub-description 2.
             
     - title: National Capabilities for Global Challenges (NC-International) Program Intern
-      institution: UK Center of Ecology and Hydrology
-      year: 2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+      institution: UK Center for Ecology and Hydrology
+      year: 2025 
       description:
         - "Project Title: Towards a Unified Approach to Environmental Modelling"
-        - developing a Basic Model Interface to allow models written in different programming languages and built for different Earth system processes to communicate and be coupled together
-        - Modernizing the Joint UK Land Environment Simulator (JULES) model by rewriting it with optimized implementations and Machine Learning framwork 
-        - Fortran, CMake, command line programming, SciPy, Python
+        - Developing a Basic Model Interface to allow models written in different programming languages and built for different Earth system processes to communicate and be coupled together
+        - Modernizing the Joint UK Land Environment Simulator (JULES) model by rewriting it with optimized algorithms and Machine Learning framwork 
+        - Technical skills: Fortran, CMake, command line programming, SciPy, JAX, Diffrax, Equinox, process-based model development
 
     - title: International Earth Science Olympiad Committee Volunteer Officer
       institution: International Geoscience Education Organization; Peking University
