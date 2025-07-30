@@ -49,7 +49,7 @@
         - "Project Title: Towards a Unified Approach to Environmental Modelling"
         - Developing a Basic Model Interface to allow models written in different programming languages and built for different Earth system processes to communicate and be coupled together
         - Modernizing the Joint UK Land Environment Simulator (JULES) model by rewriting it with optimized algorithms and Machine Learning framwork 
-        - Technical skills: Fortran, CMake, command line programming, SciPy, JAX, Diffrax, Equinox, process-based model development
+        - "Technical skills: Fortran, CMake, CLI programming, SciPy, JAX, Equinox, process-based model development"
 
     - title: International Earth Science Olympiad Committee Volunteer Officer
       institution: International Geoscience Education Organization; Peking University
@@ -58,6 +58,10 @@
 - title: Projects
   type: time_table
   contents:
+    - title: <a href="https://github.com/fionazfang/JULES_Fiona">Joint-UK Land Surface Simulator Python Implementation</a>
+      year: 2025
+      description: A Python implementation of the Joint-UK Land Surface Simulator that I developed during my internship at UKCEH.
+    
     - title: <a href="https://github.com/fionazfang/Climate_Modelling">Fiona's Climate Models</a>
       year: 2024 - now
       description: A collection of simple, conceptual climate models built by myself.
