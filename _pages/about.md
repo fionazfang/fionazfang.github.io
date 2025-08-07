@@ -23,10 +23,15 @@ latest_posts:
   limit: 8 # leave blank to include all the blog posts
 ---
 
-I am a Geography undergraduate at the University of Cambridge, driven by a deep fascination with the complex interaction between the cryosphere, atmosphere, and ocean, especially during abrupt climate transitions. 
+I am a Geography undergraduate at the University of Cambridge, with a deep fascination for the complex interplay between the cryosphere, atmosphere, and ocean, especially during abrupt climate transitions. 
 
-My current dissertation research employs both proxy records and numerical models to reconstruct last deglaciation dynamics as a means to illuminate future thresholds. 
+I develop and implement my own open-source numerical models to explore Earth system processes, working across Python, MATLAB, and Fortran. My recent projects span [climate](https://github.com/fionazfang/Climate_Modelling), [glacier](https://fionazfang.github.io/projects/2025-glacier/), and [land surface](https://github.com/fionazfang/JULES_Fiona) modeling. I’m also building tools for model coupling and interoperability using frameworks like the 
+[Basic Model Interface (BMI)](https://github.com/fionazfang/PROSUM_BMI).
 
-Beyond my formal coursework, I enjoy developing my own models for different [Earth systems](https://fionazfang.github.io/projects/) in Python, Matlab and Fortran, and I am keen sharing insights into interesting scientific questions via [blog posts](https://fionazfang.github.io/blog/). 
+Beyond modeling, I work with paleoclimate proxies such as [tree rings](https://fionazfang.github.io/projects/2025-biogeo/), [ocean sediment](https://fionazfang.github.io/projects/2023-orbit/), and [geomorphological records](https://fionazfang.github.io/projects/2025-breckland/) to better understand past environmental change. 
 
-Also, as a former member of my country’s International Earth Science Olympiad (IESO) national team, I now help organize and tutor for Earth-science Olympiads, and contribute to other open-source geoscience education materials. 
+My dissertation research applies data assimilation techniques to reconstruct the dynamics of the last deglaciation, in collaboration with the [Cambridge Computational Climatology group](https://osmanclimate.com/about_c3po/) and the Paleoceanography and Climate-Ice Research Group at the University of Leeds.
+
+Previously a national team member for the International Earth Science Olympiad (IESO), I now support Olympiad training and contribute to open-source educational resources in geoscience.
+
+You can learn more on this website about my [academic background](https://fionazfang.github.io/cv/), [projects](https://fionazfang.github.io/projects/) or explore my [blog](https://fionazfang.github.io/blogs/) where I reflect on my experiences and scientific curiosities.
