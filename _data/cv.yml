@@ -15,9 +15,10 @@
       institution: University of Cambridge, United Kingdom
       year: 2023-2026
       description:
-        - Majoring in physical geography, taking modules including climatology, glaciology, atmospheric science, volcanology, and biogeography
+        - Majoring in physical geography, taking modules including climatology, glaciology, atmospheric science, volcanology, biogeography and data analysis
         - First Class with Distinction (78%), ranked top of the cohort (1/92)
         - Cambridge University Geographical Society Committee Member
+        - Geography Department Student-Staff Committee Undergraduate Representative
         - Trinity Hall Geographical Society Co-President
         - Trinity Hall Rambling Society Founder and President
     - title: Gaokao and A Level
@@ -35,12 +36,11 @@
       institution: University of Leeds
       year: 2025
       description:
-        - "Project Title: Analysing Earth System Model Simulations to Investigate Climate Feedbacks During the Last Deglaciation"
-        - To be updated
-        - title: To be updated
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - "Project Title: Last Deglaciation Surface Temperature Reanalysis Using a Multi-Model Prior"
+        - Developed a global paleoclimate data assimilation framework to reconstruct surface air temperature evolution during the last deglaciation (~21–10 ka). 
+        - Integrated multi-model transient simulations (e.g. TraCE, iTraCE, MPI-ESM, MIROC4m, iLOVECLIM, LOVECLIM, HadCM3) as priors with proxy-based observations using an offline Ensemble Kalman Filter. 
+        - "Technical skills: MATLAB, CLI programming, netCDF file handling, Ensemble Kalman Filter, HPC (JASMIN)"
+
             
     - title: National Capabilities for Global Challenges (NC-International) Program Intern
       institution: UK Center for Ecology and Hydrology
@@ -95,13 +95,16 @@
   contents:
     - year: 2025
       items:
-        - Philip Lake Prize (best performance in PartIB Tripos), Department of Geography, University of Cambridge
+        - Philip Lake Prize, by Department of Geography, University of Cambridge
+    - year: 2025
+      items:
+        - Trinity Hall Scholar and Frank Morgan Prize, by Trinity Hall, University of Cambridge
     - year: 2023
       items: 
-        - Excellent Earth Science Tutor awarded by Chinese Earth Science Olympiad Committee
+        - Excellent Earth Science Tutor Award, by Chinese Earth Science Olympiad Committee
     - year: 2023
       items: 
-        - Awardee of Hong Kong University of Science and Technology Full Scholarship (offer declined)
+        - Hong Kong University of Science and Technology Full Scholarship (offer declined)
     - year: 2022
       items:
         - International Earth Science Olympiad Chinese Team Member (national top 8 among 40000 candidates)
@@ -134,6 +137,5 @@
 - title: Others
   type: list
   contents:
-    - Cambridge University Geography Department Student-Staff Committee Undergraduate Representative 
     - <u>Hobbies:</u> Stargazing, hiking, etc.
     - <u>Societies:</u> Cambridge University Geographical Society, Cambridge University Spaceflight Society, Trinity Hall Geographical Society, Trinity Hall Rambling Society
