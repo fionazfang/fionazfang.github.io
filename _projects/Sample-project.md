@@ -5,6 +5,7 @@ description: Project with some sample codes...
 img: assets/img/6.jpg
 importance: 4
 category: Methodology
+hidden: true
 ---
 
 Every project has a beautiful feature showcase page.
