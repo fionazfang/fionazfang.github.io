@@ -41,9 +41,9 @@ ninja.data = [{
             window.location.href = "/blog/2023/ceso-speech/";
           
         },
-      },{id: "post-reflections-on-my-ieso-journey",
+      },{id: "post-reflections-on-my-international-earth-science-olympiad-ieso-journey",
         
-          title: "Reflections on my IESO Journey",
+          title: "Reflections on my International Earth Science Olympiad (IESO) Journey",
         
         description: "",
         section: "Posts",
