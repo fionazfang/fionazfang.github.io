@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reflections on my IESO Journey
+title: Reflections on my International Earth Science Olympiad (IESO) Journey
 date: 2022-10-25 17:29:55
 tags: Earth Science Olympiad
 ---
