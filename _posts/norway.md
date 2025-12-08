@@ -1,0 +1,20 @@
+---
+layout: post
+title: Norway - Forest, Firelight, Snow, and Stars
+date: 2024-10-08 17:29:55
+tags: Fieldtrip
+---
+Lying on the narrow bed of the field station, I listened to the rain. The room held the clean scent of wood, threaded with something sharper—perhaps the smoke that lingered on my clothing from the Sami cabin’s fire. In the long polar night, a hearth burns inside those wooden huts, warming the coarse yet tender fur-lined seats. Faces flicker between light and shadow; flames rise and tremble in one’s eyes. Who dyed and wove that soft woollen blanket? Who tagged the young reindeer’s ear? Who returned from the forest with blueberries and mushrooms, inviting friends and kin to share the feast?
+Young visitors, do you know that seabirds are a sailor’s closest companions, and that the finest seasoning for dried cod is a storm at sea?
+
+They say the way you live with nature is the mirror of how you understand yourself. Such understanding is not linear, nor does it require words. You must see, experience, seek. You must sing a joik in the mountains, beside a glacier, upon the open sea; its melody coils into endless spirals, for—as they say—time has no fixed past or future, only a continual circling and growth.
+
+In that singing, I heard the fjord: a vast, tilting force. In the valleys once carved by glaciers, wind stirs ripples across seawater. The slopes are steep; meltwater threads into streams that hurry downhill, moistening the earth, rounding the stones. Forest soils are soft, sometimes exposing bedrock, sometimes covered by snow or a thin, mica-shimmering crust of ice. Tree roots anchor themselves like lichens, gripping the ground with quiet tenacity. Vegetation unfurls in gradients, extending colour and vigour upslope. I hear the Sami ask the Western biogeographer—who spends her days among remote-sensing imagery and datasets—whether she has ever truly seen a tree.
+
+I hear the ionosphere and solar wind entwine and dance across the celestial curtain, while snowy peaks carve the horizon’s edge. Stars gather in overlapping layers, flooding my vision and carrying me into a wider space—or perhaps into an older time. My perception may be painfully limited; perhaps I strive to see and feel yet will never live entirely within nature’s embrace. And yet the path I choose is to know through science, criticism, and sensibility: to find connection through acts of careful unmaking. In this way, countless wavelengths and crosscurrents move through my life.
+
+“You will know who you are from the joik,” they say.
+
+The firewood is spent.
+
+The dust glimmers in reflected light, gathering the last faint beam sent from the stars.
