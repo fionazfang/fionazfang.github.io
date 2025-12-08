@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-to-all-earth-science-enthusiasts-and-olympiad-participants",
+        },{id: "post-norway-forest-firelight-snow-and-stars",
+        
+          title: "Norway - Forest, Firelight, Snow, and Stars",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/norway/";
+          
+        },
+      },{id: "post-to-all-earth-science-enthusiasts-and-olympiad-participants",
         
           title: "To All Earth Science Enthusiasts and Olympiad participants",
         
