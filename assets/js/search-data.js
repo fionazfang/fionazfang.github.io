@@ -141,6 +141,11 @@ ninja.data = [{
           description: "Parameter calibration, sensitivity test and future projection for Haut Glacier d&#39;Arolla",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2025-glacier/";
+            },},{id: "projects-a-python-implementation-of-jules",
+          title: 'A Python Implementation of JULES',
+          description: "Joint UK Land Environment Simulator with flexible, modular design",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2025-jules/";
             },},{id: "projects-global-volcanic-hotspots",
           title: 'Global Volcanic Hotspots',
           description: "Quantitative Analysis of Global Distribution and Impacts of Volcanic Hazards",
