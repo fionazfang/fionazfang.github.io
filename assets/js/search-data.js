@@ -131,6 +131,11 @@ ninja.data = [{
           description: "Reproducing the SJ03 Thermodynamic Ocean Model for PartIB Small-Group Supervision",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2025-bipolar-seesaw/";
+            },},{id: "projects-bmi-for-prosum",
+          title: 'BMI for PROSUM',
+          description: "Basic Model Interface for Plant Production and Succession Model",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2025-bmi/";
             },},{id: "projects-breckland-39-s-periglacial-patterned-ground",
           title: 'Breckland&amp;#39;s Periglacial Patterned Ground',
           description: "Linking Surface Morphology, Subsurface Structures, and Sediment Microfabrics Methods",
