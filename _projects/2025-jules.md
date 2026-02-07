@@ -35,8 +35,14 @@ The [**julesf** package](https://github.com/fionazfang/JULES_Fiona/tree/main) im
 
 Each module is designed for standalone use via dedicated `run_*` scripts. The coupled simulations leverage SciPy’s IVP solvers for robust numerical integration across the interconnected processes.
 
-![JULES Mindmap](assets/img/2025-jules-background.png)
-*Figure: A conceptual framework of the coupled land‐surface processes implemented in julesf. Created by Fiona (Ziyan) Fang.*
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/2025-jules-background.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Figure: A conceptual framework of the coupled land‐surface processes implemented in julesf. Created by Fiona (Ziyan) Fang.
+</div>
 
 
 ## Project Structure
