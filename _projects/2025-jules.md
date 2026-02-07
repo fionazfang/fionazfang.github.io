@@ -1,18 +1,24 @@
-# julesf
+---
+layout: page
+title: A Python Implementation of JULES
+description: Joint UK Land Environment Simulator with flexible, modular design
+img: assets/img/2025-jules-background.png
+importance: 1
+category: Biosphere
+---
 
-A Python implementation of the JULES land-surface model components (Best et al. 2011; Clark et al. 2011) developed by Fiona (Ziyan) Fang.  
-Designed for easy standalone use and modular coupling via SciPy IVP solvers.
+A Python implementation of the JULES land-surface model components (Best et al. 2011; Clark et al. 2011) developed during my NC-International internship (2025) at UK Centre for Ecology and Hydrology, supervised by Dr Joe Marsh Rossney. This implimentation is designed for easy standalone use and modular coupling via SciPy IVP solvers.
 
 ## Overview
 
-The **julesf** package implements key components of the JULES land‐surface model, encapsulating the following processes:
+The [**julesf** package](https://github.com/fionazfang/JULES_Fiona/tree/main) implements key components of the JULES land‐surface model, encapsulating the following processes:
 
 
 - **Energy Balance Model (EBM)**:  
   Simulates surface energy exchange, including net radiation, sensible and latent heat fluxes.
 
 - **Plant Physiology**:  
-  Models photosynthesis and respiration via a Farquhar-type scheme, integrating diurnal and seasonal variations in environmental drivers. First computes the leaf-level physiologyand then scales up to canopy-level.
+  Models photosynthesis and respiration via a Farquhar scheme, integrating diurnal and seasonal variations in environmental drivers. First computes the leaf-level physiologyand then scales up to canopy-level.
 
 - **Soil Moisture and Thermodynamics**:  
   Implements a multi‐layer formulation of the Richards equation for soil moisture dynamics, coupled with heat conduction and thermodynamic equations to capture subsurface temperature profiles. Provides multiple options for computing soil hydraulic and thermal properties.
@@ -29,7 +35,7 @@ The **julesf** package implements key components of the JULES land‐surface mod
 
 Each module is designed for standalone use via dedicated `run_*` scripts. The coupled simulations leverage SciPy’s IVP solvers for robust numerical integration across the interconnected processes.
 
-![JULES Mindmap](docs/img/jules_mindmap.png)
+![JULES Mindmap](assets/img/2025-jules-background.png)
 *Figure: A conceptual framework of the coupled land‐surface processes implemented in julesf. Created by Fiona (Ziyan) Fang.*
 
 
@@ -107,4 +113,3 @@ python -m julesf.topmodel.run_topmodel
 python -m julesf.coupler.jules_master
 ```
 
-TODO: See docstrings for precise equation numbers and units.
