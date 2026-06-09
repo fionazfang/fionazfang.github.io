@@ -1,9 +1,9 @@
 ---
 layout: default
-permalink: /note/
-title: note
+permalink: /notes/
+title: notes
 nav: true
-nav_order: 4
+nav_order: 5
 pagination:
   enabled: true
   collection: posts
