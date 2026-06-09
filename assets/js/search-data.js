@@ -16,19 +16,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-note",
-          title: "note",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/note/index.html";
-          },
         },{id: "nav-cv",
           title: "cv",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
+          },
+        },{id: "nav-notes",
+          title: "notes",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/notes/index.html";
           },
         },{id: "post-norway-forest-firelight-snow-and-stars",
         
