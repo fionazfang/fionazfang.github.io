@@ -3,6 +3,7 @@ layout: post
 title: To All Earth Science Enthusiasts and Olympiad participants 
 date: 2023-05-27 17:29:55
 tags: Earth Science Olympiad
+hidden: true
 ---
 
 Hello everyone — students, teachers, and fellow Earth science enthusiasts!
