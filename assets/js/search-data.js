@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/notes/index.html";
           },
-        },{id: "post-norway-forest-firelight-snow-and-stars",
+        },{id: "post-glaciology-ice-dynamics-and-velocity",
+        
+          title: "Glaciology - Ice Dynamics and Velocity",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/glaciology-dynamics/";
+          
+        },
+      },{id: "post-norway-forest-firelight-snow-and-stars",
         
           title: "Norway - Forest, Firelight, Snow, and Stars",
         
