@@ -3,6 +3,7 @@ layout: post
 title: Comparing two online college-level Earth Science courses I took in high school
 date: 2022-02-21 17:29:55
 tags: Earth Science Olympiad
+hidden: true
 ---
 
 **<u>COURSE 1</u>: Our Earth: Its Climate, Process and History** provided by the University of Manchester on Coursera
