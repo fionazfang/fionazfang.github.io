@@ -41,6 +41,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/glaciology-hazards/";
           
         },
+      },{id: "post-ecology-plant-phsyiology-water",
+        
+          title: "Ecology - Plant Phsyiology (Water)",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/ecology-water/";
+          
+        },
       },{id: "post-glaciology-ice-dynamics-and-velocity",
         
           title: "Glaciology - Ice Dynamics and Velocity",
