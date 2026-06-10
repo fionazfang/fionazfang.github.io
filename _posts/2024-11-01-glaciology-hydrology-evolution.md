@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Glaciology - Seasonal Evolution of the Hydrological System 
-date: 2024-11-05 17:29:55
+date: 2024-11-01 17:29:55
 tags: Glaciology
 ---
 
