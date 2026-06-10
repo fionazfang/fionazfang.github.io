@@ -41,6 +41,17 @@ ninja.data = [{
             window.location.href = "/blog/2024/glaciology-dynamics/";
           
         },
+      },{id: "post-glaciology-seasonal-evolution-of-the-hydrological-system",
+        
+          title: "Glaciology - Seasonal Evolution of the Hydrological System",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/glaciology-hydrology-evolution/";
+          
+        },
       },{id: "post-norway-forest-firelight-snow-and-stars",
         
           title: "Norway - Forest, Firelight, Snow, and Stars",
