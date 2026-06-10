@@ -70,20 +70,36 @@ In summary, observations of glacier surface velocity provide critical insights i
 ##Bibliography 
 
 Benn, D.I. and Evans, D.J.A. (2010) Glaciers & glaciation. 2nd ed. London: Hodder education.
+
 Bennett, M.M. and Glasser, N.F. (2011) Glacial Geology: Ice Sheets and Landforms. John Wiley & Sons.
+
 Boulton, G.S. and Hindmarsh, R.C.A. (1987) ‘Sediment deformation beneath glaciers: Rheology and geological consequences’, Journal of Geophysical Research: Solid Earth, 92(B9), pp. 9059–9082. Available at: https://doi.org/10.1029/JB092iB09p09059.
+
 Echelmeyer, K. and Zhongxiang, W. (1987) ‘Direct Observation of Basal Sliding and Deformation of Basal Drift at Sub-Freezing Temperatures’, Journal of Glaciology, 33(113), pp. 83–98. Available at: https://doi.org/10.3189/S0022143000005396.
+
 Jung, S.-W. and Hong, S.-H. (2023) ‘Seven-year variation in glacier surface velocity at Narsap Sermia in Southwest Greenland’, GIScience & Remote Sensing [Preprint]. Available at: https://www.tandfonline.com/doi/abs/10.1080/15481603.2023.2207301 (Accessed: 25 November 2024).
+
 Meier, M.F. and Post, A. (1987) ‘Fast tidewater glaciers’, Journal of Geophysical Research: Solid Earth, 92(B9), pp. 9051–9058. Available at: https://doi.org/10.1029/JB092iB09p09051.
+
 Millan, R. et al. (2019) ‘Mapping Surface Flow Velocity of Glaciers at Regional Scale Using a Multiple Sensors Approach’, Remote Sensing, 11(21), p. 2498. Available at: https://doi.org/10.3390/rs11212498.
+
 Sharp, M. (2005) ‘Subglacial Drainage’, in M.G. Anderson and J.J. McDonnell (eds) Encyclopedia of Hydrological Sciences. 1st edn. Wiley. Available at: https://doi.org/10.1002/0470848944.hsa173.
+
 Sood, S. et al. (2022) ‘Mapping Samudra Tapu glacier: A holistic approach utilizing radar and optical remote sensing data for glacier radar facies mapping and velocity estimation’, Advances in space research, 70(12), pp. 3975–3999. Available at: https://doi.org/10.1016/j.asr.2022.10.030.
+
 Stearns, L.A. and van der Veen, C.J. (2018) ‘Friction at the bed does not control fast glacier flow’, Science, 361(6399), pp. 273–277. Available at: https://doi.org/10.1126/science.aat2217.
+
 Sugiyama, S. et al. (2011) ‘Ice speed of a calving glacier modulated by small fluctuations in basal water pressure’, Nature Geoscience, 4, pp. 597–600. Available at: https://doi.org/10.1038/ngeo1218.
+
 Truffer, M., Harrison, W.D. and Echelmeyer, K.A. (2000) ‘Glacier motion dominated by processes deep in underlying till’, Journal of Glaciology, 46(153), pp. 213–221. Available at: https://doi.org/10.3189/172756500781832909.
+
 Vijay, S. et al. (2019) ‘Resolving Seasonal Ice Velocity of 45 Greenlandic Glaciers With Very High Temporal Details’, Geophysical Research Letters, 46(3), pp. 1485–1495. Available at: https://doi.org/10.1029/2018GL081503.
+
 Wang, P. et al. (2018) ‘Long-term change in ice velocity of Urumqi Glacier No. 1, Tian Shan, China’, Cold Regions Science and Technology, 145, pp. 177–184. Available at: https://doi.org/10.1016/j.coldregions.2017.10.008.
+
 Wu, K. et al. (2020) ‘Dynamics of glacier surface velocity and ice thickness for maritime glaciers in the southeastern Tibetan Plateau’, Journal of Hydrology, 590, p. 125527. Available at: https://doi.org/10.1016/j.jhydrol.2020.125527.
+
 Zheng, W. et al. (2023) ‘GLAcier Feature Tracking testkit (GLAFT): a statistically and physically based framework for evaluating glacier velocity products derived from optical satellite image feature tracking’, The Cryosphere, 17(9), pp. 4063–4078. Available at: https://doi.org/10.5194/tc-17-4063-2023.
+
 Zhi, L. (2013) ‘Using SAR offset-tracking approach to estimate surface motion of the South Inylchek Glacier in Tianshan’, Chinese Journal of Geophysics [Preprint]. Available at: https://consensus.app/papers/using-offsettracking-approach-estimate-surface-motion-zhi/28b85c40cdc7561fb93d5478210cd6b2/ (Accessed: 2 December 2024).
 
