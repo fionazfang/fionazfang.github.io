@@ -41,6 +41,17 @@ ninja.data = [{
             window.location.href = "/blog/2024/glaciology-dynamics/";
           
         },
+      },{id: "post-paleoclimate-dendrochronology-and-dendroecology",
+        
+          title: "Paleoclimate - Dendrochronology and Dendroecology",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/paleoclimate-dendrochronology/";
+          
+        },
       },{id: "post-glaciology-seasonal-evolution-of-the-hydrological-system",
         
           title: "Glaciology - Seasonal Evolution of the Hydrological System",
