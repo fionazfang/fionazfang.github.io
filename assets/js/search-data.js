@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/notes/index.html";
           },
-        },{id: "post-glaciology-ice-dynamics-and-velocity",
+        },{id: "post-glaciology-glaciovolcanic-hazards",
+        
+          title: "Glaciology - Glaciovolcanic Hazards",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/glaciology-hazards/";
+          
+        },
+      },{id: "post-glaciology-ice-dynamics-and-velocity",
         
           title: "Glaciology - Ice Dynamics and Velocity",
         
