@@ -118,9 +118,9 @@ ninja.data = [{
             window.location.href = "/blog/2022/ieso-interview/";
           
         },
-      },{id: "post-how-would-climate-change-impact-tropical-cyclones",
+      },{id: "post-atmosphere-impact-of-climate-change-on-tropical-cyclones",
         
-          title: "How Would Climate Change Impact Tropical Cyclones?",
+          title: "Atmosphere - Impact of Climate Change on Tropical Cyclones",
         
         description: "",
         section: "Posts",
