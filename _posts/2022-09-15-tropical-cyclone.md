@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Would Climate Change Impact Tropical Cyclones?
+title: Atmosphere - Impact of Climate Change on Tropical Cyclones
 date: 2022-09-15 17:29:55
 tags: Atmosphere
 ---
