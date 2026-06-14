@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/notes/index.html";
           },
-        },{id: "post-volcanology-review-of-recent-eruptions",
+        },{id: "post-glaciology-ice-sheet-modelling",
+        
+          title: "Glaciology - Ice Sheet Modelling",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/glaciology/";
+          
+        },
+      },{id: "post-volcanology-review-of-recent-eruptions",
         
           title: "Volcanology - Review of Recent Eruptions",
         
