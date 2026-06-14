@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/notes/index.html";
           },
-        },{id: "post-glaciology-glaciovolcanic-hazards",
+        },{id: "post-volcanology-review-of-recent-eruptions",
+        
+          title: "Volcanology - Review of Recent Eruptions",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/volcanology-recent-eruption/";
+          
+        },
+      },{id: "post-glaciology-glaciovolcanic-hazards",
         
           title: "Glaciology - Glaciovolcanic Hazards",
         
