@@ -38,7 +38,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/glaciology/";
+            window.location.href = "/blog/2026/glaciology-modelling/";
           
         },
       },{id: "post-volcanology-review-of-recent-eruptions",
