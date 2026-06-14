@@ -41,6 +41,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/volcanology-recent-eruption/";
           
         },
+      },{id: "post-volcanology-fractional-crystallisation",
+        
+          title: "Volcanology - Fractional Crystallisation",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/volcano-fractional-crystalisation/";
+          
+        },
       },{id: "post-glaciology-glaciovolcanic-hazards",
         
           title: "Glaciology - Glaciovolcanic Hazards",
