@@ -30,9 +30,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/notes/index.html";
           },
-        },{id: "post-glaciology-ice-sheet-modelling",
+        },{id: "post-glaciology-force-balance-in-ice-sheet-modelling",
         
-          title: "Glaciology - Ice Sheet Modelling",
+          title: "Glaciology - Force Balance in Ice Sheet Modelling",
         
         description: "",
         section: "Posts",
