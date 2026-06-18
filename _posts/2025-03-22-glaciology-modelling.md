@@ -25,6 +25,8 @@ Where grounding lines sit on retrograde beds, geometry alters the force balance 
 
 Viewed through a force-balance lens, recent accelerations of Greenland and Antarctic outlet glaciers occur when gravitational driving stress is redistributed among basal traction, longitudinal stresses, and lateral drag. In Greenland, melt-driven weakening of the bed interacts with seasonal and secular changes in frontal back-stress to produce strong but relatively localised speed-ups. In West Antarctica, by contrast, weak marine sediments, extensive ice shelves, and retrograde beds create a system in which even modest reductions in buttressing reorganise the longitudinal stress field and can potentially trigger non-linear grounding-line retreat. A force-balance perspective therefore shows that fast flow of the outlet glacier is not the product of a single external forcing, but of how these forcings interact with each glacier’s internal stress hierarchy – a distinction is essential for anticipating their future instability.
 
+*Supervisor feedback*: This is a very good essay. Clearly written, with excellent use of a good range of relevant examples. 
+
 
 ## Bibliography 
 
