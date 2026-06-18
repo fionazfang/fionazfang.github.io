@@ -118,9 +118,9 @@ ninja.data = [{
             window.location.href = "/blog/2024/glaciology-dynamics-theory/";
           
         },
-      },{id: "post-glaciology-ice-dynamics-and-velocity",
+      },{id: "post-glaciology-ice-dynamics-observation",
         
-          title: "Glaciology - Ice Dynamics and Velocity",
+          title: "Glaciology - Ice Dynamics (Observation)",
         
         description: "",
         section: "Posts",
