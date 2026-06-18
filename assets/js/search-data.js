@@ -74,6 +74,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/volcano-fractional-crystalisation/";
           
         },
+      },{id: "post-paleoclimate-marine-sediments",
+        
+          title: "Paleoclimate - Marine Sediments",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/paleoclimate-marine-sediment/";
+          
+        },
       },{id: "post-glaciology-glaciovolcanic-hazards",
         
           title: "Glaciology - Glaciovolcanic Hazards",
