@@ -37,7 +37,9 @@ In scenarios where volatiles reach saturation and bubbles form, the key control 
 
 To sum up, fractional crystallisation links the chemical differentiation of magma to its eruptive behaviour. By removing early-formed crystals, it enriches the melt in silica and volatiles and raises viscosity, creating conditions that heighten the potential for overpressure and explosive discharge. Yet explosivity is not inevitable. Where crystallisation and vesiculation create permeable networks, gases escape efficiently and eruptions remain effusive, as at Kīlauea; when the system is sealed, volatile retention drives fragmentation, as at Calbuco. Fractional crystallisation thus enables explosivity but does not determine it. Its role is to modulate the balance between volatile supply and degassing efficiency, making chemical evolution and eruption dynamics two expressions of the same process.
 
-##Bibliography 
+*Supervisor feedback*: This is a spectacular essay, Fiona – well done for such deep research on a complex topic! It is very well structured, accurate and follows the original question(s) throughout.  
+
+## Bibliography 
 	
 Arzilli, F., La Spina, G., Burton, M.R., Polacci, M., Le Gall, N., Hartley, M.E., Di Genova, D., Cai, B., Vo, N.T., Bamber, E.C. and Nonni, S., 2019. Magma fragmentation in highly explosive basaltic eruptions induced by rapid crystallization. Nature Geoscience, 12(12), pp.1023-1028.
 
