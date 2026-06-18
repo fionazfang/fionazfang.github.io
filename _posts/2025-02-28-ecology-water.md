@@ -67,8 +67,7 @@ Tyree, M. T., Zimmermann, M. H., Tyree, M. T., & Zimmermann, M. H. (2002). The c
 
 # 2. Ecosystem Level: Rainforest-savanna bistability
 
-
-<img width="828" height="474" alt="image" src="https://github.com/user-attachments/assets/4aa6c066-cf42-422e-9aba-d10f42277628" />
+<img width="1478" height="828" alt="QQ20260618-152634" src="https://github.com/user-attachments/assets/ab5a96dc-34db-42a4-8e0f-3d142c0268bd" />
 
 Rainforest-savanna bistability theory is proposed to explain the observation from satellite and field studies that across much of the humid-subhumid tropics (mean annual rainfall ≈ 1 000–2 000 mm), there is a bimodal distribution of tree cover: landscapes cluster around either ~20% (savanna) or >80 % (closed forest) while intermediate cover is rare. This pattern holds globally: Staver et al 2011 confirmed the pattern for sub-Saharan Africa using 250 m MODIS data, and Hirota et al (2011) observed similar patterns in South America and Australia. 
 
