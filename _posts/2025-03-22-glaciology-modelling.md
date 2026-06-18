@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Glaciology - Ice Sheet Modelling 
+title: Glaciology - Force Balance in Ice Sheet Modelling 
 date: 2026-03-22 17:29:55
 tags: Glaciology
 ---
