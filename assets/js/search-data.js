@@ -115,7 +115,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/glaciology-dynamics/";
+            window.location.href = "/blog/2024/glaciology-dynamics-observation/";
           
         },
       },{id: "post-paleoclimate-dendrochronology-and-dendroecology",
