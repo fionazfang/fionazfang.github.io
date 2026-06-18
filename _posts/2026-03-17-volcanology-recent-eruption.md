@@ -26,7 +26,7 @@ Another major advance in the study of volcanic plumes arises from the eruption o
 
 Over the past decade, densely instrumented eruptions have advanced understanding of volcanic processes by resolving behaviour across interconnected conduit, surface, and atmospheric domains. In open-vent basaltic systems, quantitative constraints on magma withdrawal and reservoir pressure have clarified how structural failure and caldera collapse are dynamically linked to magma transport. In inefficient degassing systems, recent eruptions have shown that transitions from effusive to explosive activity, as well as water- and steam-driven explosions, are governed by rapid changes in permeability and fluid overpressure that can reorganise eruptive behaviour on short timescales. At the atmospheric scale, high-resolution satellite observations have revealed that eruption plumes actively modify their environment through radiative heating, diabatic ascent, and chemical perturbation, extending volcanic influence into the stratosphere. Together, these advances reflect a shift toward interpreting volcanic activity as a threshold-sensitive, physically coupled system operating across multiple scales. While monitoring capability has expanded substantially, continued progress depends on integrating observations within robust process-based frameworks that recognise the nonlinear nature of volcanic behaviour.
 
-##Bibliography 
+## Bibliography 
 
 1.	Anderson, K.R., Johanson, I.A., Patrick, M.R., Gu, M., Segall, P., Poland, M.P., Montgomery-Brown, E.K. and Miklius, A., 2019. Magma reservoir failure and the onset of caldera collapse at Kīlauea Volcano in 2018. Science, 366(6470), p.eaaz1822.
 
