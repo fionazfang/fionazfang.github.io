@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Glaciology - Ice Dynamics and Velocity 
+title: Glaciology - Ice Dynamics (Observation) 
 date: 2024-11-25 17:29:55
 tags: Glaciology
 ---
@@ -67,7 +67,7 @@ Lastly, observations of glacier surface velocity provide evidence that sediment 
 
 In summary, observations of glacier surface velocity provide critical insights into the mechanisms by which factors such as basal shear stress, ice temperature, effective pressure, and sediment properties influence glacier motion. These observations not only support existing flow theories but also challenge and refine them, as shown by the work of Stearns and Van der Veen (2018). Advances in observation techniques now allow for higher-resolution data, enabling a deeper understanding of these mechanisms. Such progress is vital for addressing the global issue of glacier melting in the face of ongoing climate change.
  
-##Bibliography 
+## Bibliography 
 
 Benn, D.I. and Evans, D.J.A. (2010) Glaciers & glaciation. 2nd ed. London: Hodder education.
 
