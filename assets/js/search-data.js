@@ -107,6 +107,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/ecology-water/";
           
         },
+      },{id: "post-glaciology-ice-dynamics-theory",
+        
+          title: "Glaciology - Ice Dynamics (Theory)",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/glaciology-dynamics-theory/";
+          
+        },
       },{id: "post-glaciology-ice-dynamics-and-velocity",
         
           title: "Glaciology - Ice Dynamics and Velocity",
