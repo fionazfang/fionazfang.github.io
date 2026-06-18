@@ -52,6 +52,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/volcanology-recent-eruption/";
           
         },
+      },{id: "post-glaciology-submarine-glacial-landforms",
+        
+          title: "Glaciology - Submarine Glacial Landforms",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/glaciology-landform/";
+          
+        },
       },{id: "post-volcanology-fractional-crystallisation",
         
           title: "Volcanology - Fractional Crystallisation",
