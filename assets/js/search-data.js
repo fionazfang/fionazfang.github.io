@@ -151,6 +151,17 @@ ninja.data = [{
             window.location.href = "/blog/2024/norway/";
           
         },
+      },{id: "post-paleoclimate-pacemaker-of-quaternary-climate-change",
+        
+          title: "Paleoclimate - Pacemaker of Quaternary Climate Change",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/paleoclimate-orbital-cycle/";
+          
+        },
       },{id: "post-to-all-earth-science-enthusiasts-and-olympiad-participants",
         
           title: "To All Earth Science Enthusiasts and Olympiad participants",
