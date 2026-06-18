@@ -85,6 +85,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/paleoclimate-marine-sediment/";
           
         },
+      },{id: "post-glaciology-calving",
+        
+          title: "Glaciology - Calving",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/glaciology-calving/";
+          
+        },
       },{id: "post-glaciology-glaciovolcanic-hazards",
         
           title: "Glaciology - Glaciovolcanic Hazards",
