@@ -21,15 +21,16 @@ The rate of the channels enlarge is governed by wall melting due to heat dissipa
 
 Seasonal evolution in the drainage system primarily reflects changes in melting, sliding, and creeping, all driven by the input of meltwater (Sharp, 2005). The introduction of meltwater raises the water level at the source, enhancing the pressure gradient and thereby increasing the velocity of water flow. Consequently, discharge tends to increase in both types of drainage systems, leading to a rise in basal sliding rates for cavity systems and wall melting rates for channelized systems. In the former, conduits expand proportionally less than the increase in discharge (Q), while in the latter, conduits expand proportionally more than the rise in Q. According to the relationship V=Q/S, water velocity (V) will increase in cavity systems but decrease in channel systems as Q changes. Therefore, effective pressure (N) in cavity systems is proportional to Q, whereas in channel systems, it inversely relates to Q, as shown in Figure 1. As Q increases, N initially decreases in cavity systems until it reaches a critical point, Qc ( Qc= where α=5/4). When mean discharge levels exceed Qc , the system transitions from a cavity-dominated configuration to a channel-dominated configuration, forming a set of large, well-defined channels fed by smaller, separated cavities (Schoof, 2010).
 
-Figure 1 Steady state Q-N relationship, from Schoof (2010)
+**Figure 1** Steady state Q-N relationship, from Schoof (2010)
 
 This model provides a foundation for understanding seasonal evolution. Before the melt season, the drainage system is under-developed, dominated by non-arborescent distributed networks. Dye-tracing experiments show that dye poured down moulins emerges diffusely at the glacier terminus, indicating slow and relatively inefficient transport (Figure 2b, Benn and Evans, 2010). The initial penetration of water to the glacier bed increases the separation between the ice and substrate, particularly downstream from where it reaches the beds (Mair et al., 2002). This results in an accumulation in stored water at the bed, as indicated by vertical uplift of glacier surfaces (eg. Sugiyama and Gudmundsson, 2004). As the meltwater and therefore discharge increase, water backs up in the drainage system, water pressures tend to rise (Sharp, 2005). With sustained high surface inputs over summer, discharge eventually surpasses the critical threshold Qc, marking the transition from distributed to channelized network. Since the water pressure in larger channels is lower than the smaller ones, these major channels also expand at the expense of nearby smaller ones (Schoof., 2010).
 
 The transition from a distributed to a channelized system can lead to changes in water pressure, velocity, and diffusivity, with observed variations in these parameters reflecting this evolution. First, water pressure initially increases as cavities enlarge, and then drop gradually when with the growth of channels. This aligns with observations such as the borehole measurement of Haut Glacier d’Arolla, Switzerland by Gordon et al. (1998). Similarly, a 2-year-long seismic and in-situ measurement of Glacier d'Argentière (French Alps) reports 6-fold increase hydraulic pressure from spring to summer, followed by comparable decrease towards autumn (Nanni et al., 2020). Such change in water pressure, however, is not always slow and gradual throughout the melt season, as observed intermittently by Gimbert et al. (2016) at Mendenhall Glacier, Alaska. This is explained as the failure of variations in channel size in keeping pace with discharge changes over short time scales. Second, water velocity increases from spring to summer and then gradually declines as meltwater input decreases at the end of the ablation season. For instance, GPS measurements of an outlet glacier in western Greenland during the 2008 melt season showed a 70–100% increase in horizontal glacier motion velocity from winter levels after melt onset, with speeds gradually returning to below-winter values by summer’s end, despite isolated high-velocity events persisting throughout the summer (Bartholomew et al., 2010). This pattern indicates that water pressure lowers and basal sliding reduces at the start of the melt season, with the reverse occurring at the season’s close. Thirdly, the diffusivity or dispersion of channels decreases as the system transitions from a distributed to an arborescent network, a change detectable through dye-tracing experiments. At the beginning of the melt season, tracers emerge at the glacier terminus in diffuse waves, but after transitioning to a channelized system, they appear in a single, sharp-peaked slug (figure 2a; Benn and Evans, 2010). Similar pattern is observed by Nienow, Sharp and Willis (1998) in their study of Haut Glacier d’Arolla (figure 3). Finally, although these findings suggest widespread subglacial evolution during the melt season, it is important to note that this transition does not occur simultaneously across all parts of the glacier. As the snowline retreats, this efficient drainage system expands up-glacier, as observed by Nienow et al. (1998) on Haut Glacier d’Arolla, Switzerland, and by Rawlins et al., (2023) on Humboldt Glacier, northern Greenland.
 
 
-Figure 2 The relationship between dye concentration and time since injection, from Benn and Evans (2010)
-Figure 3 The relationship between dye concentration and time since injection, from Nienow et al. (1998)
+**Figure 2** The relationship between dye concentration and time since injection, from Benn and Evans (2010)
+
+**Figure 3** The relationship between dye concentration and time since injection, from Nienow et al. (1998)
 
 
 From these evidence, we can observe that during the melt season, subglacial systems typically undergo an evolution from distributed to channelized drainage. However, pattern of this transition varies between glaciers and across different years, influenced by several key factors. Firstly, the rate of transition depends on the end-of-winter snowpack distribution and the timing of its complete melt. This is because that snow, with its high albedo, melts relatively slowly in comparison to glacier ice, and therefore acts as a potential storage site for water (Sharp, 2005, p. 8). When snow cover disappears, a sudden release of water stored in the snowpack can lead to flooding (Flowers and Clarke, 2002). Meanwhile, the melt rates increase with the reduced near-surface water storage. (Benn and Evans, 2010, p. 78). 
@@ -44,19 +45,34 @@ _Supervisor Feedback_: Very well done Fiona this shows an excellent process unde
 ## Bibliography
 
 Bartholomew, I. et al. (2010) ‘Seasonal evolution of subglacial drainage and acceleration in a Greenland outlet glacier’, Nature Geoscience, 3(6), pp. 408–411. Available at: https://doi.org/10.1038/ngeo863.
+
 Benn, D.I. and Evans, D.J.A. (2010) Glaciers & glaciation. 2nd ed. London: Hodder education.
+
 Flowers, G.E. and Clarke, G.K.C. (2000) ‘An integrated modelling approach to understanding subglacial hydraulic release events’, Annals of Glaciology, 31, pp. 222–228. Available at: https://doi.org/10.3189/172756400781820471.
+
 Flowers, G.E. and Clarke, G.K.C. (2002) ‘A multicomponent coupled model of glacier hydrology 1. Theory and synthetic examples’, Journal of Geophysical Research: Solid Earth, 107(B11), p. ECV 9-1-ECV 9-17. Available at: https://doi.org/10.1029/2001JB001122.
+
 Gimbert, F. et al. (2016) ‘Subseasonal changes observed in subglacial channel pressure, size, and sediment transport’, Geophysical Research Letters, 43(8), pp. 3786–3794. Available at: https://doi.org/10.1002/2016GL068337.
+
 Gordon, S. et al. (1998) ‘Seasonal reorganization of subglacial drainage inferred from measurements in boreholes’, Hydrological Processes, 12(1), pp. 105–133. Available at: https://doi.org/10.1002/(SICI)1099-1085(199801)12:1<105::AID-HYP566>3.0.CO;2-#.
+
 Hart, J.K. et al. (2022) ‘The seasonal evolution of subglacial drainage pathways beneath a soft-bedded glacier’, Communications Earth & Environment, 3(1), pp. 1–13. Available at: https://doi.org/10.1038/s43247-022-00484-9.
+
 Mair, D. et al. (2002) ‘Influence of subglacial drainage system evolution on glacier surface motion: Haut Glacier d’Arolla, Switzerland’, Journal of Geophysical Research: Solid Earth, 107(B8), p. EPM 8-1-EPM 8-13. Available at: https://doi.org/10.1029/2001JB000514.
+
 Nanni, U. et al. (2020) ‘Quantification of seasonal and diurnal dynamics of subglacial channels using seismic observations on an Alpine glacier’, The Cryosphere, 14(5), pp. 1475–1496. Available at: https://doi.org/10.5194/tc-14-1475-2020.
+
 Nienow, P., Sharp, M. and Willis, I. (1998) ‘Seasonal changes in the morphology of the subglacial drainage system, Haut Glacier d’Arolla, Switzerland’, Earth Surface Processes and Landforms, 23(9), pp. 825–843. Available at: https://doi.org/10.1002/(SICI)1096-9837(199809)23:9<825::AID-ESP893>3.0.CO;2-2.
+
 Rada, C. and Schoof, C. (2018) ‘Channelized, distributed, and disconnected: subglacial drainage under a valley glacier in the Yukon’, The Cryosphere, 12(8), pp. 2609–2636. Available at: https://doi.org/10.5194/tc-12-2609-2018.
+
 Rawlins, L.D. et al. (2023) ‘Seasonal evolution of the supraglacial drainage network at Humboldt Glacier, northern Greenland, between 2016 and 2020’, The Cryosphere, 17(11), pp. 4729–4750. Available at: https://doi.org/10.5194/tc-17-4729-2023.
+
 Schoof, C. (2010) ‘Ice-sheet acceleration driven by melt supply variability’, Nature, 468(7325), pp. 803–806. Available at: https://doi.org/10.1038/nature09618.
+
 Schuenemann, K.C. and Cassano, J.J. (2010) ‘Changes in synoptic weather patterns and Greenland precipitation in the 20th and 21st centuries: 2. Analysis of 21st century atmospheric changes using self-organizing maps’, Journal of Geophysical Research: Atmospheres, 115(D5). Available at: https://doi.org/10.1029/2009JD011706.
+
 Sharp, M. (2005) ‘Subglacial Drainage’, in M.G. Anderson and J.J. McDonnell (eds) Encyclopedia of Hydrological Sciences. 1st edn. Wiley. Available at: https://doi.org/10.1002/0470848944.hsa173.
+
 Sugiyama, S. and Gudmundsson, G.H. (2004) ‘Short-term variations in glacier flow controlled by subglacial water pressure at Lauteraargletscher, Bernese Alps, Switzerland’, Journal of Glaciology, 50(170), pp. 353–362. Available at: https://doi.org/10.3189/172756504781829846.
 
