@@ -299,8 +299,8 @@ ninja.data = [{
           description: "Quantitative Analysis of Global Distribution and Impacts of Volcanic Hazards",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2025-volcano/";
-            },},{id: "projects-atmospheric-river-and-antarctic-ice-shelves",
-          title: 'Atmospheric River and Antarctic Ice Shelves',
+            },},{id: "projects-atmospheric-rivers-and-antarctic-ice-shelf-instability",
+          title: 'Atmospheric Rivers and Antarctic Ice Shelf Instability',
           description: "Atmospheric Rivers as Episodic Forcing of Antarctic Ice-Shelf Instability",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2026-atmospheric-river/";
