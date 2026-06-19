@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Atmospheric River and Antarctic Ice Shelves
+title: Atmospheric Rivers and Antarctic Ice Shelf Instability
 description: Atmospheric Rivers as Episodic Forcing of Antarctic Ice-Shelf Instability
 img: assets/img/2026-atmospheric-river-mechanism.png
 importance: 1
