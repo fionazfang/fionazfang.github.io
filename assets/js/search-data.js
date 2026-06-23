@@ -301,7 +301,7 @@ ninja.data = [{
               window.location.href = "/projects/2025-volcano/";
             },},{id: "projects-atmospheric-rivers-and-antarctic-ice-shelf-instability",
           title: 'Atmospheric Rivers and Antarctic Ice Shelf Instability',
-          description: "Atmospheric Rivers as Episodic Forcing of Antarctic Ice-Shelf Instability",
+          description: "Presented at Cambridge Geography Department Student Conference 2026",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2026-atmospheric-river/";
             },},{id: "projects-sample-project",
