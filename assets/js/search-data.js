@@ -184,6 +184,17 @@ ninja.data = [{
             window.location.href = "/blog/2024/paleoclimate-orbital-cycle/";
           
         },
+      },{id: "post-volcano-amp-paleoclimate-volcano-climate-impact",
+        
+          title: "Volcano &amp; Paleoclimate - Volcano Climate Impact",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/volcano-climate-impact/";
+          
+        },
       },{id: "post-to-all-earth-science-enthusiasts-and-olympiad-participants",
         
           title: "To All Earth Science Enthusiasts and Olympiad participants",
