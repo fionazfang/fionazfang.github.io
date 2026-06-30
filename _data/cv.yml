@@ -32,6 +32,14 @@
 - title: Experience
   type: time_table
   contents:
+
+    - title: Research Assistant
+      institution: ICCS, University of Cambridge
+      year: 2026
+      description:
+        - "Project Title: Combining observations and machine learning to infer ocean turbulence"
+        - "Technical skills: TBD"
+
     - title: Research Assistant
       institution: University of Leeds
       year: 2025
@@ -40,7 +48,6 @@
         - Developed a global paleoclimate data assimilation framework to reconstruct surface air temperature evolution during the last deglaciation (~21–10 ka). 
         - Integrated multi-model transient simulations (e.g. TraCE, iTraCE, MPI-ESM, MIROC4m, iLOVECLIM, LOVECLIM, HadCM3) as priors with proxy-based observations using an offline Ensemble Kalman Filter. 
         - "Technical skills: MATLAB, CLI programming, netCDF file handling, Ensemble Kalman Filter, HPC (JASMIN)"
-
             
     - title: National Capabilities for Global Challenges (NC-International) Program Intern
       institution: UK Center for Ecology and Hydrology
@@ -93,9 +100,18 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2026
+      items:
+        - Philip Lake Prize (PartII best performance), by Department of Geography, University of Cambridge
+    - year: 2026
+      items:
+        - William Vaughan Lewis Prize (Excellent dissertation), by Department of Geography, University of Cambridge
+    - year: 2026
+      items:
+        - Full Postgraduate Scholarship (for Mphil in QCES), by Trinity Hall, University of Cambridge
     - year: 2025
       items:
-        - Philip Lake Prize, by Department of Geography, University of Cambridge
+        - Philip Lake Prize (PartIB best performance), by Department of Geography, University of Cambridge
     - year: 2025
       items:
         - Trinity Hall Scholar and Frank Morgan Prize, by Trinity Hall, University of Cambridge
