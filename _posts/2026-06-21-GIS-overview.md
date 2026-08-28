@@ -5,6 +5,7 @@ date: 2026-06-21 17:29:55
 tags: Glaciology
 ---
 
+copyright: Fiona Fang (zf276@cam.ac.uk)
 
 <img width="750" height="562.5" alt="2026-glacier-1GISSurfaceLake" src="https://github.com/user-attachments/assets/dd9460d6-9ad5-4ffe-8953-aac54fa71a6a" />
 
