@@ -85,9 +85,9 @@ ninja.data = [{
             window.location.href = "/blog/2025/paleoclimate-marine-sediment/";
           
         },
-      },{id: "post-glaciology-calving",
+      },{id: "post-glaciology-calving-laws",
         
-          title: "Glaciology - Calving",
+          title: "Glaciology - Calving Laws",
         
         description: "",
         section: "Posts",
