@@ -41,6 +41,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/AIS-overview/";
           
         },
+      },{id: "post-glaciology-greenland-ice-sheet-3-tidewater-glaciers",
+        
+          title: "Glaciology - Greenland Ice Sheet (3) Tidewater Glaciers",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/GIS-tidewater/";
+          
+        },
       },{id: "post-glaciology-greenland-ice-sheet-1-overview",
         
           title: "Glaciology - Greenland Ice Sheet (1) Overview",
@@ -61,17 +72,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2026/GIS-hydrodynamics/";
-          
-        },
-      },{id: "post-glaciology-greenland-ice-sheet-3-tidewater-glaciers",
-        
-          title: "Glaciology - Greenland Ice Sheet (3) Tidewater Glaciers",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/GIS-tidewater/";
           
         },
       },{id: "post-glaciology-force-balance-in-ice-sheet-modelling",
