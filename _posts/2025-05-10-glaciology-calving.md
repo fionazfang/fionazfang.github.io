@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Glaciology - Calving
+title: Glaciology - Calving Laws
 date: 2025-05-10 17:29:55
 tags: Glaciology
 ---
