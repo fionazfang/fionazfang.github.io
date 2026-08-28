@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/notes/index.html";
           },
-        },{id: "post-glaciology-greenland-ice-sheet-1-overview",
+        },{id: "post-glaciology-antarctic-ice-sheet-1-overview",
+        
+          title: "Glaciology - Antarctic Ice Sheet (1) Overview",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/AIS-overview/";
+          
+        },
+      },{id: "post-glaciology-greenland-ice-sheet-1-overview",
         
           title: "Glaciology - Greenland Ice Sheet (1) Overview",
         
