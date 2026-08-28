@@ -30,9 +30,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/notes/index.html";
           },
-        },{id: "post-glaciology-antarctic-ice-sheet-3-atmospheric-river",
+        },{id: "post-glaciology-antarctic-ice-sheet-2-atmospheric-river",
         
-          title: "Glaciology - Antarctic Ice Sheet (3) Atmospheric River",
+          title: "Glaciology - Antarctic Ice Sheet (2) Atmospheric River",
         
         description: "",
         section: "Posts",
