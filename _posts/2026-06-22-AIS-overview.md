@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Glaciology - Antarctic Ice Sheet (1) Overview
-date: 2026-06-22 17:29:55
+date: 2026-06-22 13:29:55
 tags: Glaciology
 ---
 
