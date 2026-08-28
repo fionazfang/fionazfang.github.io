@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Glaciology - Greenland Ice Sheet (2) Hydrodynamics
-date: 2026-06-21 17:29:55
+date: 2026-06-21 14:29:55
 tags: Glaciology 
 ---
 
