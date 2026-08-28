@@ -63,6 +63,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/GIS-hydrodynamics/";
           
         },
+      },{id: "post-glaciology-greenland-ice-sheet-3-tidewater-glaciers",
+        
+          title: "Glaciology - Greenland Ice Sheet (3) Tidewater Glaciers",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/GIS-tidewater/";
+          
+        },
       },{id: "post-glaciology-force-balance-in-ice-sheet-modelling",
         
           title: "Glaciology - Force Balance in Ice Sheet Modelling",
