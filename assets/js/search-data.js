@@ -41,6 +41,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/AIS-overview/";
           
         },
+      },{id: "post-glaciology-antarctic-ice-sheet-3-atmospheric-river",
+        
+          title: "Glaciology - Antarctic Ice Sheet (3) Atmospheric River",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/AIS-AR/";
+          
+        },
       },{id: "post-glaciology-greenland-ice-sheet-3-tidewater-glaciers",
         
           title: "Glaciology - Greenland Ice Sheet (3) Tidewater Glaciers",
