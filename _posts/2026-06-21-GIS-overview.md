@@ -6,10 +6,10 @@ tags: Glaciology
 ---
 
 
-<img width="3000" height="2250" alt="2026-glacier-1GISSurfaceLake" src="https://github.com/user-attachments/assets/dd9460d6-9ad5-4ffe-8953-aac54fa71a6a" />
+<img alt="2026-glacier-1GISSurfaceLake" src="https://github.com/user-attachments/assets/dd9460d6-9ad5-4ffe-8953-aac54fa71a6a" style="max-width: 100%; height: auto;" />
 
-<img width="3000" height="2250" alt="2026-glacier-2GISFirn" src="https://github.com/user-attachments/assets/f7a0b13a-9f87-4fb2-a0e0-1c01166d8ea3" />
+<img alt="2026-glacier-2GISFirn" src="https://github.com/user-attachments/assets/f7a0b13a-9f87-4fb2-a0e0-1c01166d8ea3" style="max-width: 100%; height: auto;" />
 
-<img width="3000" height="2250" alt="2026-glacier-3GISHydrodynamics" src="https://github.com/user-attachments/assets/c83ceb91-7f91-45c0-9cb0-40da24494ed7" />
+<img alt="2026-glacier-3GISHydrodynamics" src="https://github.com/user-attachments/assets/c83ceb91-7f91-45c0-9cb0-40da24494ed7" style="max-width: 100%; height: auto;" />
 
-<img width="3000" height="2250" alt="2026-glacier-4Tidewater" src="https://github.com/user-attachments/assets/ef6fe009-dbed-4a82-8827-dd97f8aa7e9c" />
+<img alt="2026-glacier-4Tidewater" src="https://github.com/user-attachments/assets/ef6fe009-dbed-4a82-8827-dd97f8aa7e9c" style="max-width: 100%; height: auto;" />
