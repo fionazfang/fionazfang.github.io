@@ -30,18 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/notes/index.html";
           },
-        },{id: "post-glaciology-antarctic-ice-sheet-1-overview",
-        
-          title: "Glaciology - Antarctic Ice Sheet (1) Overview",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/AIS-overview/";
-          
-        },
-      },{id: "post-glaciology-antarctic-ice-sheet-3-atmospheric-river",
+        },{id: "post-glaciology-antarctic-ice-sheet-3-atmospheric-river",
         
           title: "Glaciology - Antarctic Ice Sheet (3) Atmospheric River",
         
@@ -50,6 +39,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2026/AIS-AR/";
+          
+        },
+      },{id: "post-glaciology-antarctic-ice-sheet-1-overview",
+        
+          title: "Glaciology - Antarctic Ice Sheet (1) Overview",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/AIS-overview/";
           
         },
       },{id: "post-glaciology-greenland-ice-sheet-3-tidewater-glaciers",
