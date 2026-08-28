@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/notes/index.html";
           },
-        },{id: "post-glaciology-force-balance-in-ice-sheet-modelling",
+        },{id: "post-glaciology-greenland-ice-sheet-1-overview",
+        
+          title: "Glaciology - Greenland Ice Sheet (1) Overview",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/GIS-overview/";
+          
+        },
+      },{id: "post-glaciology-force-balance-in-ice-sheet-modelling",
         
           title: "Glaciology - Force Balance in Ice Sheet Modelling",
         
