@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Department of Geography, University of Cambridge | CB2 1TJ | zf276@cam.ac.uk 
+subtitle: Department of Applied Mathematics and Theoretical Physics, University of Cambridge | CB3 0WA | zf276@cam.ac.uk 
 
 profile:
   align: right
@@ -23,7 +23,7 @@ latest_posts:
   limit: 8 # leave blank to include all the blog posts
 ---
 
-I am an incoming MPhil student in Quantitative Climate and Environmental Science at the University of Cambridge, following my undergraduate degree in Geography. I have a deep fascination for the complex interplay between the cryosphere, atmosphere, and ocean, especially during abrupt climate transitions. 
+I am a MPhil student in Quantitative Climate and Environmental Science at the University of Cambridge, following my undergraduate degree in Geography. I have a deep fascination for the complex interplay between the cryosphere, atmosphere, and ocean, especially during abrupt climate transitions. 
 
 I enjoy developing and implementing **numerical and data-driven models** to explore Earth system processes, working across Python, MATLAB, and Fortran. My recent projects span [climate](https://github.com/fionazfang/Climate_Modelling), [glacier](https://fionazfang.github.io/projects/2025-glacier/), [ocean turbulence](https://iccs.cam.ac.uk/opportunities-iccs/iccs-summer-internships/iccs-summer-internships-projects/combining-observations), and [land surface](https://github.com/fionazfang/JULES_Fiona) modeling. I’m also building tools for model coupling and interoperability using frameworks like the 
 [Basic Model Interface (BMI)](https://github.com/fionazfang/PROSUM_BMI). My undergraduate thesis builds Last Deglaciation Reanalysis, using **data assimilation** approach to combine 13 transient PMIP4 simulations and 587 marine proxies and reconstruct the surface temperature change during the last deglaciation. 
